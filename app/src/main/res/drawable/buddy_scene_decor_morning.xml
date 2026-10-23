@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="200.0dip" android:width="200.0dip" android:viewportWidth="200.0" android:viewportHeight="200.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$buddy_scene_decor_morning__0" android:pathData="M165.00,35.00 m-110.00,0 a110.00,110.00 0 1,0 220.00,0 a110.00,110.00 0 1,0 -220.00,0 Z" />
+    <path android:fillColor="#2effffff" android:pathData="M31.00,44.05 C27.85,44.05 27.85,38.65 32.35,39.10 C32.35,34.15 39.10,32.80 40.90,36.85 C42.70,33.25 49.00,34.60 48.10,39.55 C52.60,39.55 52.60,44.05 49.00,44.05 C43.60,44.50 36.40,44.50 31.00,44.05 Z" />
+    <path android:fillColor="#1fffffff" android:pathData="M103.00,93.15 C100.55,93.15 100.55,88.95 104.05,89.30 C104.05,85.45 109.30,84.40 110.70,87.55 C112.10,84.75 117.00,85.80 116.30,89.65 C119.80,89.65 119.80,93.15 117.00,93.15 C112.80,93.50 107.20,93.50 103.00,93.15 Z" />
+</vector>

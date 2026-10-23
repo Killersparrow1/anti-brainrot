@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anti_cancel_reminder_recap_blocked">
+        <item quantity="other">บล็อกไปแล้ว %1$d รีล</item>
+        <item quantity="one">บล็อกไปแล้ว %1$d รีล</item>
+    </plurals>
+    <plurals name="anti_cancel_reminder_recap_counted">
+        <item quantity="other">นับไปแล้ว %1$d รีล</item>
+        <item quantity="one">นับไปแล้ว %1$d รีล</item>
+    </plurals>
+    <plurals name="battle_stats_wins">
+        <item quantity="other">ชนะ %1$d ครั้ง</item>
+        <item quantity="one">ชนะ %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="other">%1$d ชั่วโมง</item>
+        <item quantity="one">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="buddy_scene_ring_unit">
+        <item quantity="other">รีลวันนี้</item>
+        <item quantity="one">รีลวันนี้</item>
+    </plurals>
+    <plurals name="buddy_widget_label_days_away">
+        <item quantity="other">วันที่หายไป</item>
+        <item quantity="one">วันที่หายไป</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">กรอไปข้างหน้า %d วินาที</item>
+        <item quantity="one">กรอไปข้างหน้า %d วินาที</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">กรอกลับ %d วินาที</item>
+        <item quantity="one">กรอกลับ %d วินาที</item>
+    </plurals>
+    <plurals name="home_comeback_reels_count">
+        <item quantity="other">%1$d รีล</item>
+    </plurals>
+    <plurals name="home_delta_fewer_than_yesterday">
+        <item quantity="other">น้อยกว่าเมื่อวานเวลาเดียวกัน %1$d</item>
+        <item quantity="one">น้อยกว่าเมื่อวานเวลาเดียวกัน %1$d</item>
+    </plurals>
+    <plurals name="home_delta_more_than_yesterday">
+        <item quantity="other">มากกว่าเมื่อวานเวลาเดียวกัน %1$d</item>
+        <item quantity="one">มากกว่าเมื่อวานเวลาเดียวกัน %1$d</item>
+    </plurals>
+    <plurals name="home_delta_share_message">
+        <item quantity="other">"ถึงตอนนี้ดูรีลน้อยกว่าเมื่อวาน %1$d คลิป ชนะเราได้ไหม
+%2$s"</item>
+        <item quantity="one">"ถึงตอนนี้ดูรีลน้อยกว่าเมื่อวาน %1$d คลิป ชนะเราได้ไหม
+%2$s"</item>
+    </plurals>
+    <plurals name="logout_guard_title_count">
+        <item quantity="other">%1$d รีลยังไม่ได้บันทึก</item>
+    </plurals>
+    <plurals name="ob_story_long_days_headline">
+        <item quantity="other">"**%1$d วัน** ต่อปี
+อยู่ในรีลส์"</item>
+    </plurals>
+    <plurals name="ob_story_long_days_line">
+        <item quantity="other">จากคำตอบของคุณ: วันละ %1$d ชั่วโมง ทุกวัน</item>
+    </plurals>
+    <plurals name="ob_story_long_goal_headline">
+        <item quantity="other">"สัปดาห์ละ **%1$d ชั่วโมง**
+เพื่อ%2$s"</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_break">
+        <item quantity="other">มากกว่าเมื่อวานเวลานี้ %1$d รีล พักสักหน่อยไหม</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_night">
+        <item quantity="other">มากกว่าเมื่อวานเวลานี้ %1$d รีล วางมือถือแล้วนอนไหม</item>
+    </plurals>
+    <plurals name="pace_nudge_title">
+        <item quantity="other">วันนี้ไถไปแล้ว %1$d รีล</item>
+    </plurals>
+    <plurals name="stats_bar_reels">
+        <item quantity="other">%d รีล</item>
+        <item quantity="one">%d รีล</item>
+    </plurals>
+    <plurals name="trial_ending_blocks_title">
+        <item quantity="other">บล็อกไป %1$d รีล</item>
+        <item quantity="one">บล็อกไป %1$d รีล</item>
+    </plurals>
+    <plurals name="trial_ending_reels_title">
+        <item quantity="other">%1$d รีลช่วงทดลองใช้</item>
+        <item quantity="one">%1$d รีลช่วงทดลองใช้</item>
+    </plurals>
+    <plurals name="weekly_story_label_hours">
+        <item quantity="other">รีล (%1$d ชั่วโมง)</item>
+        <item quantity="one">รีล (%1$d ชั่วโมง)</item>
+    </plurals>
+    <plurals name="weekly_story_share_text">
+        <item quantity="other">สัปดาห์นี้ฉันไถไป %1$d รีล ชนะฉันได้ไหม? %2$s</item>
+        <item quantity="one">สัปดาห์นี้ฉันไถไป %1$d รีล ชนะฉันได้ไหม? %2$s</item>
+    </plurals>
+    <plurals name="widget_second_ask_body">
+        <item quantity="other">วันนี้ดูรีลไป %1$d รีล ไม่ต้องเปิดแอป</item>
+    </plurals>
+    <plurals name="wrap_friends_lighter">
+        <item quantity="other">เพื่อน %1$d จาก %2$d คนไถน้อยกว่าคุณ</item>
+    </plurals>
+    <plurals name="wrap_home_card_subtitle">
+        <item quantity="other">%1$d รีล ดูว่าวันนี้เป็นยังไง</item>
+    </plurals>
+    <plurals name="wrap_longest_line">
+        <item quantity="other">%1$d รีลรวดเดียว ตั้งแต่ %2$s ถึง %3$s</item>
+    </plurals>
+    <plurals name="wrap_minutes_short">
+        <item quantity="other">%1$d นาที</item>
+    </plurals>
+    <plurals name="wrap_notification_body">
+        <item quantity="other">%1$d รีล ดูว่าวันนี้เป็นยังไง</item>
+    </plurals>
+    <plurals name="wrap_pattern_opens">
+        <item quantity="other">ครั้งที่คุณเปิดรีล</item>
+    </plurals>
+    <plurals name="wrap_personality_boomerang_badge">
+        <item quantity="other">กลับมาใน 5 นาที · %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="wrap_personality_deep_diver_badge">
+        <item quantity="other">%1$d รีลรวดเดียว</item>
+    </plurals>
+    <plurals name="wrap_personality_early_bird_badge">
+        <item quantity="other">%1$d%% ก่อน 10 โมง</item>
+    </plurals>
+    <plurals name="wrap_personality_feed_hopper_badge">
+        <item quantity="other">สลับแอป %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="wrap_personality_light_touch_badge">
+        <item quantity="other">แค่ %1$d รีล</item>
+    </plurals>
+    <plurals name="wrap_personality_night_owl_badge">
+        <item quantity="other">%1$d%% ตอนดึก</item>
+    </plurals>
+    <plurals name="wrap_personality_snacker_badge">
+        <item quantity="other">แวะดูสั้นๆ %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="wrap_personality_steady_badge">
+        <item quantity="other">%1$d รีล ดูทีละนิดทั้งวัน</item>
+    </plurals>
+    <plurals name="wrap_reels">
+        <item quantity="other">รีล</item>
+    </plurals>
+    <plurals name="wrap_reels_in_time">
+        <item quantity="other">รีลใน %1$s</item>
+    </plurals>
+</resources>

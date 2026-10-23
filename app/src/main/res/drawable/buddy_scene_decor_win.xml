@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="200.0dip" android:width="200.0dip" android:viewportWidth="200.0" android:viewportHeight="200.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$buddy_scene_decor_win__0" android:pathData="M140.00,130.00 m-110.00,0 a110.00,110.00 0 1,0 220.00,0 a110.00,110.00 0 1,0 -220.00,0 Z" />
+    <path android:fillColor="#ffffd84a" android:pathData="M112.00,89.00 Q113.96,94.04 119.00,96.00 Q113.96,97.96 112.00,103.00 Q110.04,97.96 105.00,96.00 Q110.04,94.04 112.00,89.00 Z" />
+    <path android:fillColor="#ffffd84a" android:pathData="M180.00,106.00 Q181.68,110.32 186.00,112.00 Q181.68,113.68 180.00,118.00 Q178.32,113.68 174.00,112.00 Q178.32,110.32 180.00,106.00 Z" />
+    <path android:fillColor="#ffffd84a" android:pathData="M150.00,55.50 Q151.26,58.74 154.50,60.00 Q151.26,61.26 150.00,64.50 Q148.74,61.26 145.50,60.00 Q148.74,58.74 150.00,55.50 Z" />
+    <path android:fillColor="#ffffd84a" android:pathData="M100.00,146.00 Q101.12,148.88 104.00,150.00 Q101.12,151.12 100.00,154.00 Q98.88,151.12 96.00,150.00 Q98.88,148.88 100.00,146.00 Z" />
+    <path android:fillColor="#ffff8fb5" android:pathData="M172.00,82.05 C171.10,80.92 167.50,78.90 167.50,76.65 C167.50,74.17 170.88,73.50 172.00,75.97 C173.12,73.50 176.50,74.17 176.50,76.65 C176.50,78.90 172.90,80.92 172.00,82.05 Z" />
+    <path android:fillColor="#ffff8fb5" android:pathData="M124.00,129.15 C123.30,128.28 120.50,126.70 120.50,124.95 C120.50,123.03 123.12,122.50 124.00,124.42 C124.88,122.50 127.50,123.03 127.50,124.95 C127.50,126.70 124.70,128.28 124.00,129.15 Z" />
+    <path android:fillColor="#ffff8fb5" android:pathData="M186.00,152.88 C185.36,152.08 182.80,150.64 182.80,149.04 C182.80,147.28 185.20,146.80 186.00,148.56 C186.80,146.80 189.20,147.28 189.20,149.04 C189.20,150.64 186.64,152.08 186.00,152.88 Z" />
+    <path android:fillColor="#ffff8fb5" android:pathData="M140.00,38.70 C139.40,37.95 137.00,36.60 137.00,35.10 C137.00,33.45 139.25,33.00 140.00,34.65 C140.75,33.00 143.00,33.45 143.00,35.10 C143.00,36.60 140.60,37.95 140.00,38.70 Z" />
+    <path android:fillColor="#80ffffff" android:pathData="M60.00,26.92 Q60.86,29.14 63.08,30.00 Q60.86,30.86 60.00,33.08 Q59.14,30.86 56.92,30.00 Q59.14,29.14 60.00,26.92 Z" />
+    <path android:fillColor="#59ffffff" android:pathData="M164.00,150.00 m-0.96,0 a0.96,0.96 0 1,0 1.92,0 a0.96,0.96 0 1,0 -1.92,0 Z" />
+    <path android:fillColor="#59ffffff" android:pathData="M132.00,88.00 m-0.84,0 a0.84,0.84 0 1,0 1.68,0 a0.84,0.84 0 1,0 -1.68,0 Z" />
+    <path android:fillColor="#80ffffff" android:pathData="M26.00,61.36 Q26.74,63.26 28.64,64.00 Q26.74,64.74 26.00,66.64 Q25.26,64.74 23.36,64.00 Q25.26,63.26 26.00,61.36 Z" />
+    <path android:fillColor="#59ffffff" android:pathData="M80.00,70.00 m-0.66,0 a0.66,0.66 0 1,0 1.32,0 a0.66,0.66 0 1,0 -1.32,0 Z" />
+</vector>

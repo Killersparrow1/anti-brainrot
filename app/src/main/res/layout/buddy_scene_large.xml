@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@android:id/background" android:background="@drawable/buddy_widget_card_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:clipToOutline="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/buddy_scene_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/buddy_scene_bg_dawn" android:scaleType="fitXY" android:importantForAccessibility="no" />
+    <ImageView android:id="@id/buddy_scene_decor" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:importantForAccessibility="no" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.66" />
+        <ImageView android:id="@id/buddy_scene_hills" android:layout_width="fill_parent" android:layout_height="0.0dip" android:src="@drawable/buddy_scene_hills" android:scaleType="fitXY" android:layout_weight="0.34" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="1.0" android:layout_weight="0.3">
+            <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.7" />
+            <ImageView android:id="@id/buddy_scene_celestial" android:padding="6.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_weight="0.24" android:importantForAccessibility="no" />
+            <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.06" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.7" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.52" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:weightSum="1.0" android:layout_weight="0.48" android:paddingEnd="10.0dip">
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.44" />
+            <ImageView android:id="@id/buddy_scene_brain" android:layout_width="fill_parent" android:layout_height="0.0dip" android:scaleType="fitEnd" android:layout_weight="0.56" android:importantForAccessibility="no" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:weightSum="1.0" android:layout_weight="0.52">
+            <FrameLayout android:id="@id/buddy_scene_ring_box" android:padding="18.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+                <ImageView android:id="@id/buddy_scene_ring_track" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/buddy_scene_ring_track" android:scaleType="fitCenter" android:importantForAccessibility="no" />
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/buddy_scene_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:importantForAccessibility="no" />
+                    <ImageView android:id="@id/buddy_scene_sub" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:importantForAccessibility="no" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.48" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="start|bottom|center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:layout_marginStart="20.0dip">
+        <ImageView android:id="@id/buddy_scene_headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+        <ImageView android:id="@id/buddy_scene_extra" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:scaleType="fitStart" android:importantForAccessibility="no" />
+    </LinearLayout>
+</FrameLayout>

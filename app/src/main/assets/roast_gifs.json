@@ -1,0 +1,1719 @@
+{
+ "version": 1,
+ "pools": {
+  "arabic": [
+   {
+    "id": "tenor_Q6CCZ1D_fdc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Q6CCZ1D_fdcAAAAx/adel-imam.webp",
+    "caption": "{count} فيديو؟ مش حلو كده!",
+    "w": 498,
+    "h": 229
+   },
+   {
+    "id": "tenor_2VUoFxkI0MA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/2VUoFxkI0MAAAAAx/adel-imam-el-sefara-fel-emara.webp",
+    "caption": "{count} فيديو؟ ضحكتني والله.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_g8YFqVBT_xE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/g8YFqVBT_xEAAAAx/adel-eman.webp",
+    "caption": "فيديو كمان؟ ماشي يا حبيبي.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_Y8khXXQPVfU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Y8khXXQPVfUAAAAx/adel-imam-awkward.webp",
+    "caption": "موقف محرج: {count} فيديو.",
+    "w": 498,
+    "h": 282
+   },
+   {
+    "id": "tenor_HHBbqfCnphU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/HHBbqfCnphUAAAAx/ahsan-mohamed.webp",
+    "caption": "أحسن حاجة دلوقتي: تقفل الموبايل.",
+    "w": 498,
+    "h": 233
+   },
+   {
+    "id": "tenor_LZTipsmHUVA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/LZTipsmHUVAAAAAx/%D8%B7%D9%8A%D8%A8-okay.webp",
+    "caption": "طيب... {count} فيديو. وبعدين؟",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_NGrPUM5MjEg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/NGrPUM5MjEgAAAAx/abla-kamel-abla.webp",
+    "caption": "عبلة بتعيط على وقتك.",
+    "w": 498,
+    "h": 252
+   },
+   {
+    "id": "tenor_1I3ZhsjL9sY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/1I3ZhsjL9sYAAAAx/mohamed-henedy.webp",
+    "caption": "أحسن أحسن! كفاية {count} فيديو.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_BaWGokN5wbc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BaWGokN5wbcAAAAx/allemby-mohamed-saad.webp",
+    "caption": "بص في حياتك، مش في الموبايل!",
+    "w": 400,
+    "h": 224
+   },
+   {
+    "id": "tenor_uSt55sDLgQs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/uSt55sDLgQsAAAAx/adel-imam.webp",
+    "caption": "بفكر... {count} فيديو كتير؟ آه كتير.",
+    "w": 498,
+    "h": 354
+   }
+  ],
+  "bangla": [
+   {
+    "id": "tenor_6YBbjhrhEJQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/6YBbjhrhEJQAAAAx/bachelor-movie-gifgari.webp",
+    "caption": "ও আচ্ছা, {count}টা রিল হয়ে গেল?",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_OFROEBWCXIA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/OFROEBWCXIAAAAAx/bangla-bangladesh.webp",
+    "caption": "জ্ঞান না, শুধু বলছি: ফোনটা রাখো!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_4xZqw8YJzyg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/4xZqw8YJzygAAAAx/bangla-bangladesh.webp",
+    "caption": "ক্যা? {count}টা রিল?!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_cBWpsC3j33E",
+    "source": "tenor",
+    "url": "https://media.tenor.com/cBWpsC3j33EAAAAx/bangla-gif-mr-bean-bangla.webp",
+    "caption": "আমি জানতাম, আবার রিলেই আটকাবে!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_aB8di02SvzQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/aB8di02SvzQAAAAx/bangladesh-bangla-gif.webp",
+    "caption": "এ কি দেখলাম! {count}টা রিল!",
+    "w": 498,
+    "h": 394
+   },
+   {
+    "id": "tenor_tjVxcBYWm88",
+    "source": "tenor",
+    "url": "https://media.tenor.com/tjVxcBYWm88AAAAx/bhalo-hoite-poisha-lage-poysha.webp",
+    "caption": "ভালো হতে টাকা লাগে না, ফোন রাখলেই হয়।",
+    "w": 498,
+    "h": 282
+   },
+   {
+    "id": "tenor_cedHO6Pqim0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/cedHO6Pqim0AAAAx/ahhare-haire.webp",
+    "caption": "আহারে! আঙুলটা আর পারছে না।",
+    "w": 498,
+    "h": 358
+   },
+   {
+    "id": "tenor_BzYhJuonC8E",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BzYhJuonC8EAAAAx/bangla-natok-na-thak.webp",
+    "caption": "না থাক! আর একটাও না।",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor__YOHmS0elOE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/_YOHmS0elOEAAAAx/dipjol-bangla-cinema.webp",
+    "caption": "ব্যাপারটা ভাল্লাগে না, {count}টা রিল!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_1ov94z7cxuc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/1ov94z7cxucAAAAx/baker-bhai-gifgari.webp",
+    "caption": "কি বললি! আরেকটা রিল?",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_BmeDjXOyRvs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BmeDjXOyRvsAAAAx/bangla-gifgari.webp",
+    "caption": "মন বসে না? রিল বন্ধ করো, বসবে।",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_CoN0VSWVrtg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/CoN0VSWVrtgAAAAx/bangla-natok-tara-tin-jon.webp",
+    "caption": "এটা কি বলেন? এখনো স্ক্রল?",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_BWzrEV3Tiag",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BWzrEV3TiagAAAAx/ananta-jalil-gifgari.webp",
+    "caption": "কোথায় যাবো এই রিলখোরদের নিয়ে!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_B_QpLtgfsEo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/B_QpLtgfsEoAAAAx/mosharraf-karim-mosharraf.webp",
+    "caption": "পুলিশও অবাক: {count}টা রিল!",
+    "w": 498,
+    "h": 287
+   },
+   {
+    "id": "tenor_CqO-LEDmlLs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/CqO-LEDmlLsAAAAx/mosharraf-karim-laughing.webp",
+    "caption": "{count}টা রিল শুনে পানি পড়ে গেল!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_zhAv9sZ0Qk0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/zhAv9sZ0Qk0AAAAx/gifgari-bangla.webp",
+    "caption": "সমস্যার পর সমস্যা, রিলের পর রিল!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_rxVXnvpGCYo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/rxVXnvpGCYoAAAAx/doge-doge-bangla.webp",
+    "caption": "তোমার উদ্দেশ্য তো ভালো না, আরেকটা রিল?",
+    "w": 498,
+    "h": 409
+   },
+   {
+    "id": "tenor_-Qx_zXeIhY4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/-Qx_zXeIhY4AAAAx/bangla-gif-mr-bean-bangla.webp",
+    "caption": "এই দেখো, {count} পার হয়ে গেল!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_pPafohzcmqc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/pPafohzcmqcAAAAx/bangla-gif-mr-bean-bangla.webp",
+    "caption": "মাথাটা চক্কর দিচ্ছে, এত রিল!",
+    "w": 498,
+    "h": 389
+   },
+   {
+    "id": "tenor_OM9sVduJAiM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/OM9sVduJAiMAAAAx/bangla-bangladesh.webp",
+    "caption": "একটু ভাবো... আর একটু ঘুমাও।",
+    "w": 498,
+    "h": 389
+   }
+  ],
+  "english": [
+   {
+    "id": "giphy_YSdvQxlheVHxQw5hEa",
+    "source": "giphy",
+    "url": "https://media.giphy.com/media/YSdvQxlheVHxQw5hEa/giphy.webp",
+    "caption": "Run from the reels while you still can.",
+    "w": 462,
+    "h": 480
+   },
+   {
+    "id": "tenor_ZN4FAzClfG8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ZN4FAzClfG8AAAAx/friends-chandler-bing.webp",
+    "caption": "Stop it, {count} reels is killing me.",
+    "w": 498,
+    "h": 265
+   },
+   {
+    "id": "tenor_ZFc20z8DItk",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ZFc20z8DItkAAAAx/facepalm-really.webp",
+    "caption": "{count} reels. I can't even.",
+    "w": 498,
+    "h": 355
+   },
+   {
+    "id": "tenor_txeJWJAI_UI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/txeJWJAI_UIAAAAx/naze-fatigue.webp",
+    "caption": "Your brain after {count} reels.",
+    "w": 498,
+    "h": 367
+   },
+   {
+    "id": "tenor_wMae6x1ATKc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wMae6x1ATKcAAAAx/ill-rolling-eyes.webp",
+    "caption": "Me watching you scroll reel {count}.",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_zyOxy_UhDdc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/zyOxy_UhDdcAAAAx/cat-cat-waking-up.webp",
+    "caption": "Be like this cat. Go to sleep.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_Oo0X4FxGfOU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Oo0X4FxGfOUAAAAx/bruh-cat-bruh.webp",
+    "caption": "Bruh. {count} reels?",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_btYkcmAPyCc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/btYkcmAPyCcAAAAx/cat-flabbergasted.webp",
+    "caption": "The cat saw your screen time.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_sn57dYxN8gI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/sn57dYxN8gIAAAAx/ugh-no-michael-scott-no.webp",
+    "caption": "Ugh. No. Not reel {count}.",
+    "w": 498,
+    "h": 414
+   },
+   {
+    "id": "tenor_gWxvKk99YkI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/gWxvKk99YkIAAAAx/bean-mrbean.webp",
+    "caption": "Mr Bean is quietly judging you.",
+    "w": 498,
+    "h": 498
+   }
+  ],
+  "hindi": [
+   {
+    "id": "tenor_oMYPoa2OML8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/oMYPoa2OML8AAAAx/phir-hera-pheri-iska-brake-kidhar-hai.webp",
+    "caption": "{count} रील्स! इसका ब्रेक किधर है?",
+    "w": 498,
+    "h": 210
+   },
+   {
+    "id": "tenor_eaYD81_f9pA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/eaYD81_f9pAAAAAx/munna-bhai-mbbs-maksood-bhai-sanjay-dutt.webp",
+    "caption": "चल बस, रुलाएगा क्या? फ़ोन रख.",
+    "w": 498,
+    "h": 210
+   },
+   {
+    "id": "tenor_1a7ckDXJ8ZU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/1a7ckDXJ8ZUAAAAx/baburao-hera-pheri.webp",
+    "caption": "{count} हो गईं, अब रिस्क नहीं लेने का!",
+    "w": 498,
+    "h": 414
+   },
+   {
+    "id": "tenor_G--oZFwzkE8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/G--oZFwzkE8AAAAx/ae-chup-be-phir-hera-pheri.webp",
+    "caption": "ऐ चुप बे! अंगूठा रोक.",
+    "w": 498,
+    "h": 282
+   },
+   {
+    "id": "tenor_ekUcLfSGNAQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ekUcLfSGNAQAAAAx/abhi-maza-aayega-na-bhidu-johnny-lever.webp",
+    "caption": "अभी मज़ा आएगा ना भिडू? बिल्कुल नहीं!",
+    "w": 498,
+    "h": 243
+   },
+   {
+    "id": "tenor_D6wIddPDS_Q",
+    "source": "tenor",
+    "url": "https://media.tenor.com/D6wIddPDS_QAAAAx/housefull2012-johnny-lever.webp",
+    "caption": "{count} रील्स? व्हाट अ हेल मैन!",
+    "w": 498,
+    "h": 210
+   },
+   {
+    "id": "tenor_4XMJ9ihFvQE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/4XMJ9ihFvQEAAAAx/chup-chup-ke-rajpal-yadav-meme.webp",
+    "caption": "रील्स ख़त्म नहीं हुईं, दिन ख़त्म हो गया!",
+    "w": 498,
+    "h": 320
+   },
+   {
+    "id": "tenor_3pb-6DDVjQA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/3pb-6DDVjQAAAAAx/garam-masala-paresh-rawal-mambo.webp",
+    "caption": "पढ़ाई? कुछ कहा? मैंने सुना नहीं!",
+    "w": 498,
+    "h": 210
+   },
+   {
+    "id": "tenor_d_LX1YhCFyA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/d_LX1YhCFyAAAAAx/golmaal-ajay-devgan.webp",
+    "caption": "नींद को अब बहुत वेट करना पड़ेगा.",
+    "w": 498,
+    "h": 210
+   },
+   {
+    "id": "tenor_BgNO6XwHOn8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BgNO6XwHOn8AAAAx/control-kabeer.webp",
+    "caption": "कंट्रोल, कंट्रोल... अगली रील मत खोल!",
+    "w": 498,
+    "h": 212
+   },
+   {
+    "id": "tenor_D6iFHHQNp_8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/D6iFHHQNp_8AAAAx/band-kar-rona-band-kar-dhamaal.webp",
+    "caption": "रोना बंद कर, फ़ोन बंद कर!",
+    "w": 498,
+    "h": 324
+   },
+   {
+    "id": "tenor_wYifH7m334c",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wYifH7m334cAAAAx/arrey-band-kar-jethalal-champaklal-gada.webp",
+    "caption": "अरे बंद कर! {count} हो गईं.",
+    "w": 498,
+    "h": 244
+   },
+   {
+    "id": "tenor_j-f-vaSz3eg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/j-f-vaSz3egAAAAx/denial-heart.webp",
+    "caption": "{count} रील्स देखकर जेठालाल भी शॉक!",
+    "w": 498,
+    "h": 406
+   },
+   {
+    "id": "tenor_X5czfC8xXME",
+    "source": "tenor",
+    "url": "https://media.tenor.com/X5czfC8xXMEAAAAx/bas-kar.webp",
+    "caption": "बस कर भाई, हो गया. अब सो जा.",
+    "w": 498,
+    "h": 493
+   },
+   {
+    "id": "tenor_q2eL6vNVKf4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/q2eL6vNVKf4AAAAx/bhai-kya-kar-raha-hai-tu-ashneer-grover.webp",
+    "caption": "भाई, {count} रील्स! क्या कर रहा है तू?",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_xVGwfBk66vY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/xVGwfBk66vYAAAAx/chup-chup-k-so-jaa.webp",
+    "caption": "सो जा! रील्स कल भी रहेंगी.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_95Rb0df6dMs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/95Rb0df6dMsAAAAx/gadda-upar-daal-aur-so-jaa-akshay-kumar.webp",
+    "caption": "गद्दा ऊपर डाल और सो जा!",
+    "w": 498,
+    "h": 244
+   },
+   {
+    "id": "tenor_KBflukoBgAw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/KBflukoBgAwAAAAx/carryminati-carryminati-roast.webp",
+    "caption": "सो जाओ!!! {count} बहुत हैं.",
+    "w": 498,
+    "h": 327
+   },
+   {
+    "id": "tenor_bNXlMiWXSi8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/bNXlMiWXSi8AAAAx/get-out-get-out-get-outttttt.webp",
+    "caption": "गेट आउट! इंस्टा से बाहर निकलो.",
+    "w": 498,
+    "h": 276
+   },
+   {
+    "id": "tenor_GpQF-hF0bkg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/GpQF-hF0bkgAAAAx/bollywood-yeh-fas-gaya.webp",
+    "caption": "ये फँस गया... रील्स के जाल में!",
+    "w": 498,
+    "h": 232
+   }
+  ],
+  "indonesia": [
+   {
+    "id": "tenor_SthpkkjaioY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/SthpkkjaioYAAAAx/atok-upin-ipin.webp",
+    "caption": "Atok marah: main HP terus!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_IsoCWc894x0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/IsoCWc894x0AAAAx/gue-kaget-banget-aku-kaget.webp",
+    "caption": "{count} video? Gue kaget banget!",
+    "w": 500,
+    "h": 318
+   },
+   {
+    "id": "tenor_ojDmS0P2ppA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ojDmS0P2ppAAAAAx/give-up-sigh.webp",
+    "caption": "Capek lihat kamu scroll terus.",
+    "w": 498,
+    "h": 467
+   },
+   {
+    "id": "tenor_6e45_nePxDA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/6e45_nePxDAAAAAx/hahaha-sule.webp",
+    "caption": "Hahaha, {count} video. Teu cageur!",
+    "w": 484,
+    "h": 498
+   },
+   {
+    "id": "tenor_ykGPOQy-fRA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ykGPOQy-fRAAAAAx/apa-apaan-sih-ini-nino.webp",
+    "caption": "Apa-apaan sih ini? {count} video!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_sVC1THgX7GA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/sVC1THgX7GAAAAAx/besok-aja-abdullah-rendy.webp",
+    "caption": "Tugasnya? 'Besok aja.' Yakin?",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_FjL32fhugE4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/FjL32fhugE4AAAAx/dasar-pembohong-elsa-anindita.webp",
+    "caption": "'Satu video lagi'? Dasar pembohong!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_8Mg954oKqks",
+    "source": "tenor",
+    "url": "https://media.tenor.com/8Mg954oKqksAAAAx/ala-jangan-bohong-kamu-elsa-anindita.webp",
+    "caption": "Jangan bohong, ini bukan yang terakhir!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_P0HgNOBj7mo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/P0HgNOBj7moAAAAx/ctne-hadeh.webp",
+    "caption": "Hadeh, scroll-nya agak laen nih.",
+    "w": 498,
+    "h": 430
+   },
+   {
+    "id": "tenor_ckajjfi4Iqc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ckajjfi4IqcAAAAx/apaan-sih-maksudnya.webp",
+    "caption": "{count} video? Apaan sih?!",
+    "w": 500,
+    "h": 390
+   },
+   {
+    "id": "tenor_AMEGu0YQWOM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/AMEGu0YQWOMAAAAx/gak-bisa-gitu-gitu-terus-judika.webp",
+    "caption": "Scroll terus? Gak bisa gitu-gitu terus!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_jNycS-7vdlQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/jNycS-7vdlQAAAAx/bubu-sleepy.webp",
+    "caption": "Stop, stop! Taruh HP-nya!",
+    "w": 493,
+    "h": 498
+   },
+   {
+    "id": "tenor_L72mEmVNxeQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/L72mEmVNxeQAAAAx/ejen-ali-sleep.webp",
+    "caption": "Udah malam, bobo yuk.",
+    "w": 400,
+    "h": 498
+   },
+   {
+    "id": "tenor_ZKRfKT65-cU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ZKRfKT65-cUAAAAx/dino-boy-dino-kuning.webp",
+    "caption": "AAAA! {count} video!",
+    "w": 480,
+    "h": 476
+   },
+   {
+    "id": "tenor_J6kuRjCCIco",
+    "source": "tenor",
+    "url": "https://media.tenor.com/J6kuRjCCIcoAAAAx/aku-yakin-sih-erlangga-permadi.webp",
+    "caption": "Aku yakin sih, kamu bisa berhenti.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_TN4alUvWMXk",
+    "source": "tenor",
+    "url": "https://media.tenor.com/TN4alUvWMXkAAAAx/ayo-andini.webp",
+    "caption": "Ayo! Bangun, jalan-jalan dulu.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_hebY-2gz6JY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/hebY-2gz6JYAAAAx/haduh-jantuk.webp",
+    "caption": "Haduh! Udah {count} video aja.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_xkiCHFf9bV8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/xkiCHFf9bV8AAAAx/opeett-upin-ipin.webp",
+    "caption": "Kamu ni apa? Udah {count} video!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_Qy5mwAjmznM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Qy5mwAjmznMAAAAx/chicks-upin-ipin.webp",
+    "caption": "Oh kasihan... waktumu habis.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_7hVvGk6Astg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/7hVvGk6AstgAAAAx/betul-betul-betul-upin-ipin.webp",
+    "caption": "Betul, betul, betul... kamu kecanduan.",
+    "w": 498,
+    "h": 363
+   }
+  ],
+  "kannada": [
+   {
+    "id": "tenor_CQlWfovswb4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/CQlWfovswb4AAAAx/get-lost-comedy.webp",
+    "caption": "ಫೋನ್ ಕೆಳಗೆ ಇಡು, ಹೋಗು!",
+    "w": 498,
+    "h": 274
+   },
+   {
+    "id": "tenor_3igzwcXd_yw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/3igzwcXd_ywAAAAx/anant-nag-who-is-gonna-understand-this.webp",
+    "caption": "ಇಷ್ಟು ರೀಲ್ಸ್ ಯಾಕೆ? ಯಾರಿಗೆ ಅರ್ಥ ಆಗುತ್ತೆ!",
+    "w": 498,
+    "h": 282
+   },
+   {
+    "id": "tenor_qXIhheRcn8A",
+    "source": "tenor",
+    "url": "https://media.tenor.com/qXIhheRcn8AAAAAx/chennaag-heludri-chennag-heludri.webp",
+    "caption": "{count} ರೀಲ್ಸ್ ಆಯ್ತು. ಚೆನ್ನಾಗ್ ಮಾಡುದ್ರಿ!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_WA2bi80FscE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/WA2bi80FscEAAAAx/dont-know-bullet-prakash.webp",
+    "caption": "ಟೈಮ್ ಎಲ್ಲಿ ಹೋಯ್ತು? ಗೊತ್ತಿಲ್ಲ!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_7_HzEO57NkQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/7_HzEO57NkQAAAAx/feel-better-i-dont-agree.webp",
+    "caption": "{count} ರೀಲ್ಸ್... ನನಗೆ ಅಳು ಬರ್ತಿದೆ.",
+    "w": 498,
+    "h": 493
+   },
+   {
+    "id": "tenor_IiUkRZHcLvo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/IiUkRZHcLvoAAAAx/be-careful-warning.webp",
+    "caption": "ಎಚ್ಚರಿಕೆ! {count} ರೀಲ್ಸ್ ದಾಟಿದೆ!",
+    "w": 498,
+    "h": 274
+   },
+   {
+    "id": "tenor_742q_IPIqnA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/742q_IPIqnAAAAAx/comedy-kannada-gifs.webp",
+    "caption": "ನೋಡಿ ನೋಡಿ, ಇನ್ನೂ ಸ್ಕ್ರೋಲ್ ಮಾಡ್ತಿದ್ದಾನೆ!",
+    "w": 498,
+    "h": 286
+   },
+   {
+    "id": "tenor_nB0wofkkQgg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/nB0wofkkQggAAAAx/devare-in-kannada-devare.webp",
+    "caption": "ದೇವರೇ! ಇವನನ್ನ ಕಾಪಾಡು.",
+    "w": 498,
+    "h": 274
+   },
+   {
+    "id": "tenor_wtI7-dvcdcs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wtI7-dvcdcsAAAAx/doddanna-gifs-doddanna-comedy-gifs.webp",
+    "caption": "ಓಡು! ರೀಲ್ಸ್ ಬರ್ತಿವೆ!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_pE7R7X40TE8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/pE7R7X40TE8AAAAx/googly-googly-kannada-movie.webp",
+    "caption": "ಅಯ್ಯೋ ದೇವ್ರೇ... ಇಷ್ಟೊಂದಾ?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_0sfMFkZ8M3U",
+    "source": "tenor",
+    "url": "https://media.tenor.com/0sfMFkZ8M3UAAAAx/laughing-kannada.webp",
+    "caption": "ನಿನ್ನ ಸ್ಕ್ರೀನ್ ಟೈಮ್ ನೋಡಿ ನಗು ಬರ್ತಿದೆ!",
+    "w": 498,
+    "h": 369
+   },
+   {
+    "id": "tenor_3CDPwoMOAPc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/3CDPwoMOAPcAAAAx/shock-cant-believe.webp",
+    "caption": "ಏನು?! {count} ರೀಲ್ಸಾ?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_tR-Wh-yupCw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/tR-Wh-yupCwAAAAx/something-happened-what-did-you-see.webp",
+    "caption": "ಏನಾಯ್ತು? ಟೈಮ್ ಓಡಿ ಹೋಯ್ತು!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_rJYYh9YwEl8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/rJYYh9YwEl8AAAAx/one-photo-kannada.webp",
+    "caption": "ಸಾಕು! ಫೋನ್ ಇಡು ಅಂದ್ರೆ ಇಡು!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_j5z7XkU6HiY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/j5z7XkU6HiYAAAAx/sadhu-kokila.webp",
+    "caption": "ಯಾಕೆ? {count} ರೀಲ್ಸ್ ಯಾಕೆ?",
+    "w": 498,
+    "h": 328
+   },
+   {
+    "id": "tenor_NinMlhHeWtQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/NinMlhHeWtQAAAAx/kannada-movies-kannada-hero.webp",
+    "caption": "ಏನಿದು? ಇನ್ನೂ ರೀಲ್ಸಾ?",
+    "w": 498,
+    "h": 228
+   },
+   {
+    "id": "tenor_xNLj9IlotBw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/xNLj9IlotBwAAAAx/breakup-love-breakup.webp",
+    "caption": "ಬ್ರೇಕಪ್ ಮಾಡು... ರೀಲ್ಸ್ ಜೊತೆ!",
+    "w": 498,
+    "h": 493
+   },
+   {
+    "id": "tenor_QTX8PyD5Fw4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/QTX8PyD5Fw4AAAAx/eddelu-majunatha.webp",
+    "caption": "ಎದ್ದೇಳು ಮಂಜುನಾಥ! ರೀಲ್ಸ್ ಸಾಕು.",
+    "w": 498,
+    "h": 493
+   },
+   {
+    "id": "tenor_iKY7e7pMPCE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/iKY7e7pMPCEAAAAx/comedy-rishabh.webp",
+    "caption": "ತುಂಬಾ ಇಂಟರೆಸ್ಟಿಂಗ್... ಆದ್ರೆ ಸಾಕು!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_aUoo6VxlbVU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/aUoo6VxlbVUAAAAx/angry-kannada-comedy.webp",
+    "caption": "ನಾನು ಸಿಟ್ಟಾಗಿದ್ದೇನೆ! {count} ರೀಲ್ಸ್!",
+    "w": 498,
+    "h": 294
+   }
+  ],
+  "malayalam": [
+   {
+    "id": "tenor_wGeIVYJMBnw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wGeIVYJMBnwAAAAx/malayalam-comedy.webp",
+    "caption": "{count} റീൽസോ? എന്റെ ദൈവമേ!",
+    "w": 498,
+    "h": 275
+   },
+   {
+    "id": "tenor_a2nM7Bqc7TM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/a2nM7Bqc7TMAAAAx/kunjikoonan-dileep.webp",
+    "caption": "{count} റീൽസ്! ചിരി നിർത്തി ഫോൺ താഴെ വെക്ക്.",
+    "w": 498,
+    "h": 370
+   },
+   {
+    "id": "tenor_ZynUzoZFKQI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ZynUzoZFKQIAAAAx/jayaram-crying.webp",
+    "caption": "{count} റീൽസ്... കരയണോ ചിരിക്കണോ?",
+    "w": 498,
+    "h": 373
+   },
+   {
+    "id": "tenor_oghV3ysxZz0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/oghV3ysxZz0AAAAx/dileep-malayalam.webp",
+    "caption": "ഒന്ന് പറഞ്ഞോട്ടെ? {count} റീൽസ് ആയി.",
+    "w": 498,
+    "h": 367
+   },
+   {
+    "id": "tenor_uPfkZTby3X0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/uPfkZTby3X0AAAAx/malayalam-malayalam-film.webp",
+    "caption": "ഒന്ന് ആലോചിച്ചു നോക്ക്, {count} റീൽസ്!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_PdBj1jXr4eY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/PdBj1jXr4eYAAAAx/aano-kunje-jagathy.webp",
+    "caption": "ആണോ കുഞ്ഞേ? ഇനിയും scroll ചെയ്യണോ?",
+    "w": 498,
+    "h": 423
+   },
+   {
+    "id": "tenor_DkciuvvZplc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/DkciuvvZplcAAAAx/pucham-jagathy.webp",
+    "caption": "{count} റീൽസ്? പുച്ഛം മാത്രം.",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "id": "tenor_sBhbiu64CsU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/sBhbiu64CsUAAAAx/malayalam-malayalam-comedy.webp",
+    "caption": "കൊള്ളാം, {count} റീൽസ്. മിടുക്കൻ!",
+    "w": 498,
+    "h": 394
+   },
+   {
+    "id": "tenor_rrG20ByOnO8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/rrG20ByOnO8AAAAx/dileep-pachakuthira.webp",
+    "caption": "ഞെട്ടിപ്പോയി! {count} റീൽസ്!",
+    "w": 498,
+    "h": 314
+   },
+   {
+    "id": "tenor_SrcblblDAlo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/SrcblblDAloAAAAx/suraj-goonda.webp",
+    "caption": "റീൽസിനോട് ബൈ പറ, ബൈ ദ ബൈ.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_QhqOwgWntNk",
+    "source": "tenor",
+    "url": "https://media.tenor.com/QhqOwgWntNkAAAAx/salim-kumar-pulival-kalyanam.webp",
+    "caption": "{count} റീൽസ് കണ്ടിട്ടും മതിയായില്ലേ?",
+    "w": 498,
+    "h": 331
+   },
+   {
+    "id": "tenor_SMu-mvvRR6s",
+    "source": "tenor",
+    "url": "https://media.tenor.com/SMu-mvvRR6sAAAAx/malayalam-movies.webp",
+    "caption": "എന്തിനാ? {count} റീൽസ് എന്തിനാ?",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor__yzTldDMqow",
+    "source": "tenor",
+    "url": "https://media.tenor.com/_yzTldDMqowAAAAx/salim-kumar-proud.webp",
+    "caption": "{count} റീൽസ്? അഭിമാനിക്കാൻ ഒന്നുമില്ല.",
+    "w": 498,
+    "h": 372
+   },
+   {
+    "id": "tenor_4bqdPp2H0qU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/4bqdPp2H0qUAAAAx/jagathy-mattupetti-machan.webp",
+    "caption": "മതി! ഫോൺ താഴെ വെക്ക്!",
+    "w": 498,
+    "h": 411
+   },
+   {
+    "id": "tenor_Zp_tqRhcQao",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Zp_tqRhcQaoAAAAx/chattambinadu-suraj-venjaramoodu.webp",
+    "caption": "ഇത്രയും റീൽസോ? {count}!",
+    "w": 498,
+    "h": 372
+   },
+   {
+    "id": "tenor_DTRilhz0Aqc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/DTRilhz0AqcAAAAx/malayalam-malayalam-comedy.webp",
+    "caption": "അയ്യേ, {count} റീൽസ്!",
+    "w": 498,
+    "h": 446
+   },
+   {
+    "id": "tenor_hLCf_h6emGA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/hLCf_h6emGAAAAAx/mammukka-mammootty.webp",
+    "caption": "മമ്മൂക്ക പോലും ഞെട്ടി!",
+    "w": 498,
+    "h": 403
+   },
+   {
+    "id": "tenor_KP3FSj-LqFc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/KP3FSj-LqFcAAAAx/mammootty-thurupu-gulan.webp",
+    "caption": "ഞാൻ നോക്കുന്നുണ്ട്. {count} റീൽസ്.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_XehrID2CGys",
+    "source": "tenor",
+    "url": "https://media.tenor.com/XehrID2CGysAAAAx/jagathy-sreekumar-kumbidi.webp",
+    "caption": "എന്താ കേശവാ? {count} റീൽസോ?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_Rr6wPbWyShM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Rr6wPbWyShMAAAAx/dileep-malayalam-dileep.webp",
+    "caption": "ചിരിച്ചോ, പക്ഷേ സമയം പോയി.",
+    "w": 498,
+    "h": 285
+   }
+  ],
+  "nepal": [
+   {
+    "id": "tenor_kFXu4jPMlMg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/kFXu4jPMlMgAAAAx/damncare-exam.webp",
+    "caption": "मलाई डेमकेयर... तर समयको केयर गर!",
+    "w": 498,
+    "h": 468
+   },
+   {
+    "id": "tenor_U-MiqicudXU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/U-MiqicudXUAAAAx/goodnight-hari-bahadur.webp",
+    "caption": "गुड नाइट! फोनलाई पनि सुत्न देऊ.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_RHznu9Bu1dY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/RHznu9Bu1dYAAAAx/hari-bahadur-crying.webp",
+    "caption": "आत्तिएँ! {count} वटा रिल्स!",
+    "w": 498,
+    "h": 294
+   },
+   {
+    "id": "tenor_YwTkf3bFabc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/YwTkf3bFabcAAAAx/nepal-nepalese.webp",
+    "caption": "हो र? {count} वटा रिल्स?",
+    "w": 498,
+    "h": 369
+   },
+   {
+    "id": "tenor_paFO9FMvYBY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/paFO9FMvYBYAAAAx/hari-bahadur-kun.webp",
+    "caption": "कुन रिल राम्रो थियो? कुनै पनि होइन!",
+    "w": 498,
+    "h": 484
+   },
+   {
+    "id": "tenor_lQZGNQnEurk",
+    "source": "tenor",
+    "url": "https://media.tenor.com/lQZGNQnEurkAAAAx/hait-disappointed.webp",
+    "caption": "हैट!!! अब पुग्यो.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_vDGPrC4oYiU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/vDGPrC4oYiUAAAAx/rajaram-nepali.webp",
+    "caption": "हत्तेरिका! {count} वटा रिल्स हेरिसकियो।",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_wfXfEuUiG3E",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wfXfEuUiG3EAAAAx/bye-bbye.webp",
+    "caption": "रिल्सलाई बाइ भन!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_7d8-S1-kId4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/7d8-S1-kId4AAAAx/chwassai-nepal.webp",
+    "caption": "च्वास्सै! समय त गयो.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_uOhMKxaFD9I",
+    "source": "tenor",
+    "url": "https://media.tenor.com/uOhMKxaFD9IAAAAx/haha-ahaha.webp",
+    "caption": "हाहाहा... अझै एउटा? हाँसो उठ्यो!",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_H5chAoXsPR8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/H5chAoXsPR8AAAAx/hari-bahadur-nepali.webp",
+    "caption": "ओछ्यानमा पल्टियो, अझै स्क्रोल!",
+    "w": 498,
+    "h": 280
+   }
+  ],
+  "pakistan": [
+   {
+    "id": "tenor_svejLAIgqcU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/svejLAIgqcUAAAAx/bas-bro-bas-kar-mai-ro-padunga-gopi-bhalla.webp",
+    "caption": "Bas kar bhai, warna main ro parunga!",
+    "w": 498,
+    "h": 272
+   },
+   {
+    "id": "tenor_0t9Mygt60nY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/0t9Mygt60nYAAAAx/abbe-saale-maaf-karna-ghussay-main-idher-udhar-nikal-jaata-hun-main.webp",
+    "caption": "Abbe saale, {count} reels! Maaf karna, ghussa hai.",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_4z9Jc_xR6lA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/4z9Jc_xR6lAAAAAx/aise-logon-pe-sirf-humlog-hass-sakte-hain-moin-akhtar-meme.webp",
+    "caption": "Aise logon pe sirf hum hans sakte hain.",
+    "w": 498,
+    "h": 311
+   },
+   {
+    "id": "tenor_THf7NsWRcDI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/THf7NsWRcDIAAAAx/dont-believe-shocked.webp",
+    "caption": "Hansi bhi aa rahi hai, afsos bhi.",
+    "w": 498,
+    "h": 369
+   },
+   {
+    "id": "tenor_dFiocfWPzwQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/dFiocfWPzwQAAAAx/anwar-maqsood-loose-talk.webp",
+    "caption": "Harmonium nahi, phone baj raha hai!",
+    "w": 498,
+    "h": 369
+   },
+   {
+    "id": "tenor_UW9_-mxr6ic",
+    "source": "tenor",
+    "url": "https://media.tenor.com/UW9_-mxr6icAAAAx/chawal-chawalkisuno.webp",
+    "caption": "Is chawal ki bhi suno: \"bas ek aur reel\"!",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_UBzdHROJHWI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/UBzdHROJHWIAAAAx/aunty-government.webp",
+    "caption": "Aunty bhi keh rahi hain: bas karo ab!",
+    "w": 640,
+    "h": 294
+   },
+   {
+    "id": "tenor_F3ePoqk1ifQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/F3ePoqk1ifQAAAAx/aur-aur-aur-aur-kuch.webp",
+    "caption": "Aur, aur, aur... kitni aur reels?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_PqyPX8m2bBU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/PqyPX8m2bBUAAAAx/chupke-chupke-meenu.webp",
+    "caption": "Bhaago, reels peechay aa rahi hain!",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_5jQpX_OXsZY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/5jQpX_OXsZYAAAAx/anmol-anmol-baloch.webp",
+    "caption": "{count} reels? Haye, kya drama hai.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_NugDdtISWtI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/NugDdtISWtIAAAAx/adam-sultan-mood.webp",
+    "caption": "Ek aur reel? Rehne do yaar.",
+    "w": 498,
+    "h": 383
+   },
+   {
+    "id": "tenor_a6r2d5aLRNg",
+    "source": "tenor",
+    "url": "https://media.tenor.com/a6r2d5aLRNgAAAAx/agar-tum-saath-ho-mawra-hocane.webp",
+    "caption": "Haaye, {count} ho gayin! Ab kya karun?",
+    "w": 400,
+    "h": 400
+   },
+   {
+    "id": "tenor_LUbnjmuj3k0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/LUbnjmuj3k0AAAAx/mahobila.webp",
+    "caption": "{count} reels? Bohat mayoos kiya.",
+    "w": 490,
+    "h": 498
+   },
+   {
+    "id": "tenor_qNEPMK3kpJ0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/qNEPMK3kpJ0AAAAx/darshan-raval-darshan.webp",
+    "caption": "Dimaag khaali ho gaya, {count} reels!",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_wkIoAnCGob0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/wkIoAnCGob0AAAAx/chaudhry-and-sons-billu-chaudhry.webp",
+    "caption": "Velle baithe, aaj kya takleef hai?",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_elg0ztYMedA",
+    "source": "tenor",
+    "url": "https://media.tenor.com/elg0ztYMedAAAAAx/ayeza-khan-mere-paas-tum-ho.webp",
+    "caption": "\"Bas ek aur\"? What do you mean?",
+    "w": 498,
+    "h": 277
+   },
+   {
+    "id": "tenor_Qs0iNpRNAsw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Qs0iNpRNAswAAAAx/ayeza-khan-please.webp",
+    "caption": "Please, phone rakh do. Minnat hai.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_ltvuk3Zq_9E",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ltvuk3Zq_9EAAAAx/funny-jokes.webp",
+    "caption": "Bas karo, {count} reels ho gayi.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_GwFtGYqlmCE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/GwFtGYqlmCEAAAAx/aisa-nahi-lagta-bade-ijjat-se-beijjati-hui-hai-insult.webp",
+    "caption": "Reels ne izzat se beizzati kar di.",
+    "w": 498,
+    "h": 243
+   },
+   {
+    "id": "tenor_8hhg2-SU550",
+    "source": "tenor",
+    "url": "https://media.tenor.com/8hhg2-SU550AAAAx/billu-chaudhry-chaudhry-and-sons.webp",
+    "caption": "Ek minute thehar jao! Phone neeche.",
+    "w": 498,
+    "h": 279
+   }
+  ],
+  "portuguese_br": [
+   {
+    "id": "tenor_YAOhbZ5GZy4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/YAOhbZ5GZy4AAAAx/nazar%C3%A9.webp",
+    "caption": "{count} vídeos? A Nazaré tá fazendo as contas.",
+    "w": 498,
+    "h": 317
+   },
+   {
+    "id": "tenor_iSMxeMoZ6ig",
+    "source": "tenor",
+    "url": "https://media.tenor.com/iSMxeMoZ6igAAAAx/faustao-fausto-silva.webp",
+    "caption": "Ô loco, meu! {count} vídeos!",
+    "w": 498,
+    "h": 278
+   },
+   {
+    "id": "tenor_gd4RD98GNuw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/gd4RD98GNuwAAAAx/chaves-chaves-confuso.webp",
+    "caption": "Chaves não entendeu: mais um vídeo?",
+    "w": 640,
+    "h": 480
+   },
+   {
+    "id": "tenor_GIerR8lu_DE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/GIerR8lu_DEAAAAx/chaves.webp",
+    "caption": "Seu dedão: 'Eu não quero mais!'",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_htguUzJ7a-Y",
+    "source": "tenor",
+    "url": "https://media.tenor.com/htguUzJ7a-YAAAAx/errou.webp",
+    "caption": "Errou! Era pra largar o celular.",
+    "w": 498,
+    "h": 372
+   },
+   {
+    "id": "tenor_mcMHBU3TNIM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/mcMHBU3TNIMAAAAx/o-loco-bicho-reinaldo-gottino.webp",
+    "caption": "Ô loco, bicho! Larga esse celular.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_3-aEYf-wbZc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/3-aEYf-wbZcAAAAx/nazare-math-lady.webp",
+    "caption": "Buguei: {count} vídeos seguidos?",
+    "w": 498,
+    "h": 305
+   },
+   {
+    "id": "tenor_jyMF2gxaRoU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/jyMF2gxaRoUAAAAx/alma-negra-chaves-chapolin-seu-madruga-medo.webp",
+    "caption": "Até o Chapolin ficou com medo.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_6FL3a_Ne2QU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/6FL3a_Ne2QUAAAAx/chapolin-colorado-cafe.webp",
+    "caption": "Esse vídeo tá mais amargo que café.",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_owDPfnfXWBY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/owDPfnfXWBYAAAAx/nazare-tedesco-rindo.webp",
+    "caption": "A Nazaré rindo dos seus {count} vídeos.",
+    "w": 498,
+    "h": 498
+   }
+  ],
+  "tamil": [
+   {
+    "id": "tenor_ScO-o8xM-64",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ScO-o8xM-64AAAAx/comedy-tamil.webp",
+    "caption": "{count} reels-ஆ? நோ கமெண்ட்ஸ்.",
+    "w": 498,
+    "h": 448
+   },
+   {
+    "id": "tenor_E4cqgr4ovJI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/E4cqgr4ovJIAAAAx/goundamani-cautious.webp",
+    "caption": "{count} reels-ஆ? உன்ன கொஞ்சம் பாரு!",
+    "w": 498,
+    "h": 310
+   },
+   {
+    "id": "tenor_rE569gbbrhE",
+    "source": "tenor",
+    "url": "https://media.tenor.com/rE569gbbrhEAAAAx/senthil-mahaprabhu.webp",
+    "caption": "{count} reels! இது ரொம்ப ஓவர்!",
+    "w": 498,
+    "h": 274
+   },
+   {
+    "id": "tenor_Ydt2GzRM2A4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Ydt2GzRM2A4AAAAx/ennama-neenga-enna-ma.webp",
+    "caption": "என்ன மா நீங்க இப்டி பண்றீங்களே மா!",
+    "w": 498,
+    "h": 288
+   },
+   {
+    "id": "giphy_T5aSD9OI0xxjLYVSXq",
+    "source": "giphy",
+    "url": "https://media.giphy.com/media/T5aSD9OI0xxjLYVSXq/giphy.webp",
+    "caption": "Brain கெஞ்சுது: னா வுட்ரு னா!",
+    "w": 480,
+    "h": 270
+   },
+   {
+    "id": "giphy_YSdvQxlheVHxQw5hEa",
+    "source": "giphy",
+    "url": "https://media.giphy.com/media/YSdvQxlheVHxQw5hEa/giphy.webp",
+    "caption": "ஓடு! Reels பின்னாடி வருது!",
+    "w": 462,
+    "h": 480
+   },
+   {
+    "id": "tenor_sebJHESVgEc",
+    "source": "tenor",
+    "url": "https://media.tenor.com/sebJHESVgEcAAAAx/tamil-facepalm.webp",
+    "caption": "{count} reels-ஆ? என்ன கொடுமை சரவணன் இது!",
+    "w": 400,
+    "h": 206
+   },
+   {
+    "id": "tenor_Z8M5OJaeYqY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Z8M5OJaeYqYAAAAx/haahaaa.webp",
+    "caption": "இன்னும் எத்தனை reels பாக்கணுமோ!",
+    "w": 498,
+    "h": 372
+   },
+   {
+    "id": "tenor_EHVlMG44Lww",
+    "source": "tenor",
+    "url": "https://media.tenor.com/EHVlMG44LwwAAAAx/winner-prashanth.webp",
+    "caption": "இந்த அவமானம் உனக்கு தேவையா?",
+    "w": 498,
+    "h": 282
+   },
+   {
+    "id": "tenor_Oxfw47R-jKY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Oxfw47R-jKYAAAAx/aiyyo-bayama-iruku-aiyyo-bayama-iruku-kaadichiradha.webp",
+    "caption": "ஐயோ, {count} reels! பயமா இருக்கு!",
+    "w": 480,
+    "h": 356
+   },
+   {
+    "id": "tenor_YH8VCIcCcAo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/YH8VCIcCcAoAAAAx/idharkuthane-aasaipattai-balamukara-vijay-sethupathy.webp",
+    "caption": "டேய்... போதும் டா!",
+    "w": 498,
+    "h": 261
+   },
+   {
+    "id": "tenor_BOFra9_6d9w",
+    "source": "tenor",
+    "url": "https://media.tenor.com/BOFra9_6d9wAAAAx/vada-poche-vadivelu.webp",
+    "caption": "வடை போச்சே! உங்க டைமும் போச்சு!",
+    "w": 498,
+    "h": 423
+   },
+   {
+    "id": "tenor_ZAcpuWvVU1g",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ZAcpuWvVU1gAAAAx/goundamani-angry.webp",
+    "caption": "இன்னும் எத்தனை reels டா?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_S3Hi27H6DPM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/S3Hi27H6DPMAAAAx/nari-oolayiduma.webp",
+    "caption": "ஓஓஓ! {count} reels-ஆ?",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_81q_TgeuXNo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/81q_TgeuXNoAAAAx/goundamani-mahaprabhu.webp",
+    "caption": "மகாபிரபு, {count} reels-ஆ!",
+    "w": 498,
+    "h": 333
+   },
+   {
+    "id": "tenor_uTfIgnYK574",
+    "source": "tenor",
+    "url": "https://media.tenor.com/uTfIgnYK574AAAAx/senthil-panadol.webp",
+    "caption": "சிரிச்சது போதும், போனை கீழ வை.",
+    "w": 498,
+    "h": 400
+   },
+   {
+    "id": "tenor_EI4kLAjn_d0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/EI4kLAjn_d0AAAAx/crying-nari.webp",
+    "caption": "{count} reels... அழுகையா வருது.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_fVa4fwfJn0I",
+    "source": "tenor",
+    "url": "https://media.tenor.com/fVa4fwfJn0IAAAAx/senthil-mahaprabhu.webp",
+    "caption": "Reels-க்கு ஒரு பை சொல்லு!",
+    "w": 498,
+    "h": 374
+   },
+   {
+    "id": "tenor_gUyV57gQdWI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/gUyV57gQdWIAAAAx/senthil-gentleman.webp",
+    "caption": "டென்ஷன் குறை, வேலையை பாரு.",
+    "w": 498,
+    "h": 398
+   },
+   {
+    "id": "tenor_YUbrXUmer10",
+    "source": "tenor",
+    "url": "https://media.tenor.com/YUbrXUmer10AAAAx/karuppu-subbaiya-goundamani.webp",
+    "caption": "நேரம் போச்சே! {count} reels.",
+    "w": 498,
+    "h": 300
+   }
+  ],
+  "telugu": [
+   {
+    "id": "tenor_PYzAkdo3fmU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/PYzAkdo3fmUAAAAx/uff-torcher.webp",
+    "caption": "{count} రీల్స్... ఉఫ్, టార్చర్ రా బాబూ!",
+    "w": 498,
+    "h": 285
+   },
+   {
+    "id": "tenor_N8T8oFdAsfY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/N8T8oFdAsfYAAAAx/brahmanandam-brahmi.webp",
+    "caption": "{count} రీల్స్ నార్మలా? నో నో, ఒప్పుకోను!",
+    "w": 498,
+    "h": 450
+   },
+   {
+    "id": "tenor_hQfiQk-4H-A",
+    "source": "tenor",
+    "url": "https://media.tenor.com/hQfiQk-4H-AAAAAx/adhurs-brahmi.webp",
+    "caption": "{count} రీల్సా? బ్రహ్మీ కూడా షాక్!",
+    "w": 498,
+    "h": 302
+   },
+   {
+    "id": "tenor_10gLXFgGq5c",
+    "source": "tenor",
+    "url": "https://media.tenor.com/10gLXFgGq5cAAAAx/bhibatsam-brahmanandam.webp",
+    "caption": "అమ్మో! ఇంకా స్క్రోల్ చేస్తున్నావా?",
+    "w": 498,
+    "h": 285
+   },
+   {
+    "id": "tenor_EcbchGNE_8g",
+    "source": "tenor",
+    "url": "https://media.tenor.com/EcbchGNE_8gAAAAx/brahmi-king.webp",
+    "caption": "ఏంటి... ఇన్ని రీల్సా?!",
+    "w": 498,
+    "h": 258
+   },
+   {
+    "id": "tenor_AQdMSmZhgF8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/AQdMSmZhgF8AAAAx/bhibatsam-sri-krishna2006.webp",
+    "caption": "నీ బొటనవేలు ఏడుస్తోంది చూడు!",
+    "w": 498,
+    "h": 476
+   },
+   {
+    "id": "tenor_UTxvzYKjHtY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/UTxvzYKjHtYAAAAx/brahmi-brahmanandam.webp",
+    "caption": "నిన్ను చూసి డిసప్పాయింట్ అయ్యా.",
+    "w": 498,
+    "h": 260
+   },
+   {
+    "id": "tenor_LTrm-8SWo1c",
+    "source": "tenor",
+    "url": "https://media.tenor.com/LTrm-8SWo1cAAAAx/cry-brahmi.webp",
+    "caption": "ఇంకో రీల్ అంటే నేను ఏడుస్తా!",
+    "w": 498,
+    "h": 434
+   },
+   {
+    "id": "tenor_b5dGLjt3xO4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/b5dGLjt3xO4AAAAx/confused-confusion.webp",
+    "caption": "నిజంగానా? ఇంకా చూస్తావా?",
+    "w": 498,
+    "h": 254
+   },
+   {
+    "id": "tenor_0s3dZa8KjjU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/0s3dZa8KjjUAAAAx/bhibatsam-brahmanandam.webp",
+    "caption": "పరిగెత్తు! రీల్స్ వెంటపడుతున్నాయి!",
+    "w": 496,
+    "h": 498
+   },
+   {
+    "id": "tenor_FGbNAyUwHWw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/FGbNAyUwHWwAAAAx/cry-crying.webp",
+    "caption": "అమ్మో... {count} రీల్స్!",
+    "w": 498,
+    "h": 425
+   },
+   {
+    "id": "tenor_Pf6-bfWCUr4",
+    "source": "tenor",
+    "url": "https://media.tenor.com/Pf6-bfWCUr4AAAAx/bhibatsam-brahmanandam.webp",
+    "caption": "అబ్బో! చాలా ప్రొడక్టివ్‌గా ఉన్నావే!",
+    "w": 498,
+    "h": 277
+   },
+   {
+    "id": "tenor_VzQpl0WlriM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/VzQpl0WlriMAAAAx/bhibatsam-brahmanandam.webp",
+    "caption": "ఏం చేయాలి నీతో!",
+    "w": 498,
+    "h": 450
+   },
+   {
+    "id": "tenor_9N0pw8akxx0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/9N0pw8akxx0AAAAx/bp-frustration.webp",
+    "caption": "BP పెంచకు! ఫోన్ కింద పెట్టు.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_43auewwMSc0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/43auewwMSc0AAAAx/thokkathotakura-chiru.webp",
+    "caption": "ఏంటి? {count} రీల్సా?",
+    "w": 498,
+    "h": 448
+   },
+   {
+    "id": "tenor_QhMIOGsJ2qk",
+    "source": "tenor",
+    "url": "https://media.tenor.com/QhMIOGsJ2qkAAAAx/control-control-control.webp",
+    "caption": "కంట్రోల్... కంట్రోల్... స్క్రోల్ ఆపు!",
+    "w": 498,
+    "h": 406
+   },
+   {
+    "id": "tenor_fWF39yv4zcQ",
+    "source": "tenor",
+    "url": "https://media.tenor.com/fWF39yv4zcQAAAAx/dubai-seenu-ms-narayana.webp",
+    "caption": "{count} రీల్స్? ఫైర్ స్టార్ కూడా షాక్!",
+    "w": 498,
+    "h": 330
+   },
+   {
+    "id": "tenor_U_BDNY1CfbY",
+    "source": "tenor",
+    "url": "https://media.tenor.com/U_BDNY1CfbYAAAAx/aadi-ms-narayana.webp",
+    "caption": "థూ... నా బతుకు! మళ్లీ రీల్సా?",
+    "w": 498,
+    "h": 246
+   },
+   {
+    "id": "tenor_uUzQ8-tnRM8",
+    "source": "tenor",
+    "url": "https://media.tenor.com/uUzQ8-tnRM8AAAAx/bhibatsam-brahmanandam.webp",
+    "caption": "అయ్యో! టైమ్ అంతా పోయింది!",
+    "w": 498,
+    "h": 325
+   },
+   {
+    "id": "tenor_0Q81_m_nfg0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/0Q81_m_nfg0AAAAx/devudaa-allu-arjun.webp",
+    "caption": "దేవుడా! వీడిని కాపాడు!",
+    "w": 498,
+    "h": 425
+   }
+  ],
+  "turkish": [
+   {
+    "id": "tenor_jBBQ2SbWv7k",
+    "source": "tenor",
+    "url": "https://media.tenor.com/jBBQ2SbWv7kAAAAx/kemal-sunal-100-numaral%C4%B1-adam.webp",
+    "caption": "{count} video mu? Yeter artık!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_w-iKeKl6s14",
+    "source": "tenor",
+    "url": "https://media.tenor.com/w-iKeKl6s14AAAAx/emir-kemal-sunal.webp",
+    "caption": "İyi geceler de, telefonu bırak.",
+    "w": 498,
+    "h": 498
+   },
+   {
+    "id": "tenor_ujzDsnG3tYs",
+    "source": "tenor",
+    "url": "https://media.tenor.com/ujzDsnG3tYsAAAAx/kemal-sunal.webp",
+    "caption": "Kemal bile şaşırdı: {count} video!",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_AIG1LWbW9dw",
+    "source": "tenor",
+    "url": "https://media.tenor.com/AIG1LWbW9dwAAAAx/kemal-sunal.webp",
+    "caption": "Bir tane daha mı? Hıh, tabii.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_EGfCUZSCDgI",
+    "source": "tenor",
+    "url": "https://media.tenor.com/EGfCUZSCDgIAAAAx/%C3%B6yle-mi-%C3%B6yle.webp",
+    "caption": "{count} video mu? Öyle mi?!",
+    "w": 498,
+    "h": 285
+   },
+   {
+    "id": "tenor_l1hFUkpwz3A",
+    "source": "tenor",
+    "url": "https://media.tenor.com/l1hFUkpwz3AAAAAx/peki%C3%B6yle-olsun-peki-oyle-olsun.webp",
+    "caption": "Peki, öyle olsun... ama yeter artık.",
+    "w": 498,
+    "h": 391
+   },
+   {
+    "id": "tenor_4zgqAXyW-RU",
+    "source": "tenor",
+    "url": "https://media.tenor.com/4zgqAXyW-RUAAAAx/sende-bunu.webp",
+    "caption": "Algoritma kandırdı, sen de yedin.",
+    "w": 498,
+    "h": 272
+   },
+   {
+    "id": "tenor_--dEB_RIFN0",
+    "source": "tenor",
+    "url": "https://media.tenor.com/--dEB_RIFN0AAAAx/recep-ivedik.webp",
+    "caption": "Recep bile bu kadar düşmedi.",
+    "w": 498,
+    "h": 280
+   },
+   {
+    "id": "tenor_crpEdHK-yuM",
+    "source": "tenor",
+    "url": "https://media.tenor.com/crpEdHK-yuMAAAAx/mesela-yani.webp",
+    "caption": "Mesela yani, telefonu bırakabilirsin.",
+    "w": 498,
+    "h": 279
+   },
+   {
+    "id": "tenor_HodUo3ZHOUo",
+    "source": "tenor",
+    "url": "https://media.tenor.com/HodUo3ZHOUoAAAAx/badi-ekrem-sener-sen.webp",
+    "caption": "Gökyüzüne bak, ekrana değil.",
+    "w": 498,
+    "h": 486
+   }
+  ]
+ }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@android:id/background" android:background="@drawable/buddy_widget_card_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:clipToOutline="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/battle_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitXY" android:importantForAccessibility="no" />
+    <ImageView android:id="@id/battle_decor" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:importantForAccessibility="no" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.64" />
+        <ImageView android:id="@id/battle_hills" android:layout_width="fill_parent" android:layout_height="0.0dip" android:src="@drawable/buddy_scene_hills" android:scaleType="fitXY" android:layout_weight="0.36" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="end|center|top" android:id="@id/battle_celestial" android:layout_width="44.0dip" android:layout_height="44.0dip" android:layout_marginTop="8.0dip" android:scaleType="fitCenter" android:importantForAccessibility="no" android:layout_marginEnd="8.0dip" />
+    <FrameLayout android:id="@id/battle_art_a_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="bottom|center" android:id="@id/battle_art_a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/battle_art_b_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="start|center|top" android:id="@id/battle_art_b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/battle_art_c_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="end|bottom|center" android:id="@id/battle_art_c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/battle_art_d_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="start|center" android:id="@id/battle_art_d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/battle_text_top_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="start|center|top" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/battle_top_headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battle_top_sub_row" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+                <ImageView android:id="@id/battle_top_sub_icon" android:layout_width="13.0dip" android:layout_height="13.0dip" android:scaleType="fitCenter" android:importantForAccessibility="no" android:layout_marginEnd="4.0dip" />
+                <ImageView android:id="@id/battle_top_sub" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battle_top_sub2_row" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+                <ImageView android:id="@id/battle_top_sub2_icon" android:layout_width="13.0dip" android:layout_height="13.0dip" android:scaleType="fitCenter" android:importantForAccessibility="no" android:layout_marginEnd="4.0dip" />
+                <ImageView android:id="@id/battle_top_sub2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+            </LinearLayout>
+            <ImageView android:id="@id/battle_top_cta" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:importantForAccessibility="no" />
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/battle_text_bottom_frame" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:layout_gravity="start|bottom|center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/battle_bottom_headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/battle_bottom_sub_row" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+                <ImageView android:id="@id/battle_bottom_sub_icon" android:layout_width="13.0dip" android:layout_height="13.0dip" android:scaleType="fitCenter" android:importantForAccessibility="no" android:layout_marginEnd="4.0dip" />
+                <ImageView android:id="@id/battle_bottom_sub" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+            </LinearLayout>
+            <ImageView android:id="@id/battle_bottom_cta" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:importantForAccessibility="no" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

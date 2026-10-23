@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="64.0dip" android:width="64.0dip" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$buddy_scene_sun_happy__0" android:pathData="M50.00,50.00 m-45.50,0 a45.50,45.50 0 1,0 91.00,0 a45.50,45.50 0 1,0 -91.00,0 Z" />
+    <path android:fillColor="@drawable/$buddy_scene_sun_happy__1" android:pathData="M50.00,50.00 m-26.00,0 a26.00,26.00 0 1,0 52.00,0 a26.00,26.00 0 1,0 -52.00,0 Z" />
+    <path android:pathData="M37.46,51.36 A3.38,3.38 0 0,1 43.82,51.36" android:strokeColor="#ff4a2a12" android:strokeWidth="1.82" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M56.18,51.36 A3.38,3.38 0 0,1 62.54,51.36" android:strokeColor="#ff4a2a12" android:strokeWidth="1.82" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#8cff7a7a" android:pathData="M35.70,58.76 m-3.64,0 a3.64,2.08 0 1,0 7.28,0 a3.64,2.08 0 1,0 -7.28,0 Z" />
+    <path android:fillColor="#8cff7a7a" android:pathData="M64.30,58.76 m-3.64,0 a3.64,2.08 0 1,0 7.28,0 a3.64,2.08 0 1,0 -7.28,0 Z" />
+    <path android:pathData="M54.01,56.99 A4.42,4.42 0 0,1 45.99,56.99" android:strokeColor="#ff4a2a12" android:strokeWidth="1.82" android:strokeLineCap="round" android:strokeLineJoin="round" />
+</vector>

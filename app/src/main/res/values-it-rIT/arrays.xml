@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>Punta sul bello…</item>
+        <item>Scegli il positivo oggi…</item>
+        <item>Cerca pace, non caos…</item>
+        <item>Scegli la vita, non lo scroll…</item>
+        <item>Ritrova calma adesso…</item>
+        <item>Resta qui, resta felice…</item>
+        <item>Respira e goditi la vita…</item>
+        <item>Vivi l’adesso…</item>
+        <item>Vivi adesso…</item>
+        <item>Concentrati su ciò che conta…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>Vuoi davvero cascarci di nuovo?</item>
+        <item>Sicuro che non diventi un’ora?</item>
+        <item>Vuoi davvero guardare reel?</item>
+        <item>Vale la pena sentirti svuotatə dopo?</item>
+        <item>Lo apri tu o lo apre l’abitudine?</item>
+        <item>Pausa vera o un altro giro nel baratro?</item>
+        <item>Sicuro che non te ne pentirai dopo?</item>
+        <item>Vuoi riprendere il focus o continuare a scrollare?</item>
+        <item>Vuoi davvero buttare via la prossima ora?</item>
+        <item>Lo stai scegliendo tu o stai ricadendo?</item>
+        <item>Cervello stanco o in craving di altra spazzatura?</item>
+        <item>Vuoi staccare o stare peggio dopo?</item>
+        <item>Sei qui per svago o bloccato nel loop?</item>
+        <item>Pausa vera o solita trappola?</item>
+        <item>Vuoi continuare a scrollare o riprendere il controllo?</item>
+        <item>Vuoi fermarti ora o perderti di nuovo?</item>
+        <item>Vuoi riprendere il focus o buttare via tempo?</item>
+        <item>Sei tu a scegliere o è solo noia?</item>
+        <item>Un attimo di silenzio o un altro giro di scroll infinito?</item>
+        <item>Ti mancano davvero i reel o solo la tua abitudine?</item>
+        <item>La spezzi adesso o replichi ieri?</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>Ok, si comincia</item>
+        <item>Ancora lucido</item>
+        <item>Ancora ok</item>
+        <item>Per ora ci siamo</item>
+        <item>È ancora sotto controllo</item>
+        <item>Tieni basso</item>
+        <item>Sei a posto</item>
+        <item>Non esagerare</item>
+        <item>Fin qui tutto ok</item>
+        <item>È presto</item>
+        <item>Niente di che</item>
+        <item>Tutto ok</item>
+        <item>Non ti sei ancora spento</item>
+        <item>Scroll leggero</item>
+        <item>Ce l’hai in mano</item>
+        <item>Ancora gestibile</item>
+        <item>Non è virale</item>
+        <item>Per ora va bene</item>
+        <item>Danni minimi</item>
+        <item>Lo stai tenendo a bada</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>Mi sto stancando…</item>
+        <item>È troppo</item>
+        <item>I miei neuroni svaniscono</item>
+        <item>Ci sei dentro da un po’</item>
+        <item>Il marcio avanza</item>
+        <item>Lo sento che si scioglie</item>
+        <item>Ripensaci</item>
+        <item>Ormai è una dipendenza</item>
+        <item>Ormai siamo dentro fino al collo</item>
+        <item>Qui sto bruciando neuroni</item>
+        <item>Il danno è reale</item>
+        <item>Stai esagerando forte</item>
+        <item>Ho bisogno di una pausa</item>
+        <item>È troppo</item>
+        <item>Mi si annebbiano le idee</item>
+        <item>Non ragiono più</item>
+        <item>La nebbia si chiude</item>
+        <item>Sei in piena furia</item>
+        <item>È troppo</item>
+        <item>Ti prego, fermati</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>Ci fermiamo?</item>
+        <item>Sto crollando</item>
+        <item>Questo è abuso cerebrale</item>
+        <item>Hai esagerato di brutto</item>
+        <item>Non ce la faccio più</item>
+        <item>Tutto in pappa</item>
+        <item>Il marcio è avanzato</item>
+        <item>Abbi pietà</item>
+        <item>Sono a secco</item>
+        <item>Mi stai distruggendo</item>
+        <item>Non ti fa bene</item>
+        <item>La mia ultima neurone sta piangendo</item>
+        <item>Non mi ricordo chi sono</item>
+        <item>Lo scroll ti ha divorato</item>
+        <item>Siamo oltre il punto di non ritorno</item>
+        <item>Mi spengo</item>
+        <item>È una crisi</item>
+        <item>Ti serve un intervento</item>
+        <item>Ho perso il conto dei danni</item>
+        <item>Qua sopra è rimasto il vuoto</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>Non ce la faccio più</item>
+        <item>È finita per me</item>
+        <item>Cervello: fuso a terra</item>
+        <item>Hai finito il rot</item>
+        <item>Sono solo una pozzanghera ormai</item>
+        <item>Non si torna indietro</item>
+        <item>Cervello in tilt</item>
+        <item>Obiettivo sbloccato: cervello in tilt</item>
+        <item>Non esisto più</item>
+        <item>Ha vinto il marcio</item>
+        <item>Mi hai scrollato nel nulla</item>
+        <item>Sono irrecuperabile</item>
+        <item>Fine dei giochi</item>
+        <item>Game over per i neuroni</item>
+        <item>Hai maxato il marciume</item>
+        <item>Ora sono un frullato</item>
+        <item>Zero pensieri, solo reel</item>
+        <item>Il cervello ha abbandonato la chat</item>
+        <item>Complimenti, mi hai rotto</item>
+        <item>Una volta avevo un cervello</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>Occhio, si accumula</item>
+        <item>Stai prendendo ritmo</item>
+        <item>Sta iniziando a pesare</item>
+        <item>Zona rischiosa</item>
+        <item>Forse rallenta un po’</item>
+        <item>Sta salendo</item>
+        <item>Ormai sei oltre il casual</item>
+        <item>Sta diventando un vizio</item>
+        <item>Inizia a sentirsi</item>
+        <item>Così così</item>
+        <item>Stai esagerando</item>
+        <item>Non è solo uno sguardo</item>
+        <item>Lo scroll è reale</item>
+        <item>Ormai sei sotto</item>
+        <item>Sei a metà nella zona rossa</item>
+        <item>Ti sta salendo</item>
+        <item>Potresti pentirtene dopo</item>
+        <item>Il cervello nota</item>
+        <item>Qui si fa seria</item>
+        <item>Rallenta un po’?</item>
+    </string-array>
+</resources>

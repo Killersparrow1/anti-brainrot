@@ -1,0 +1,24 @@
+# ktlint configuration
+# https://github.com/pinterest/ktlint
+
+# Disable specific rules
+disabled_rules:
+  - final-newline
+  - no-wildcard-imports
+  - package-name
+  - max-line-length
+
+# EditorConfig integration
+editorconfig:
+  enabled: true
+
+# Output format
+reporters:
+  - plain
+  - checkstyle
+
+# Experimental rules
+experimental: false
+
+# Relative paths in reports
+relative-path: true

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="64.0dip" android:width="64.0dip" android:viewportWidth="100.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$buddy_scene_sun_worried__0" android:pathData="M50.00,50.00 m-45.50,0 a45.50,45.50 0 1,0 91.00,0 a45.50,45.50 0 1,0 -91.00,0 Z" />
+    <path android:fillColor="@drawable/$buddy_scene_sun_worried__1" android:pathData="M50.00,50.00 m-26.00,0 a26.00,26.00 0 1,0 52.00,0 a26.00,26.00 0 1,0 -52.00,0 Z" />
+    <path android:fillColor="#ff4a2a12" android:pathData="M39.16,52.52 m-2.86,0 a2.86,2.86 0 1,0 5.72,0 a2.86,2.86 0 1,0 -5.72,0 Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M40.20,51.48 m-1.04,0 a1.04,1.04 0 1,0 2.08,0 a1.04,1.04 0 1,0 -2.08,0 Z" />
+    <path android:fillColor="#ff4a2a12" android:pathData="M56.84,52.52 m-2.86,0 a2.86,2.86 0 1,0 5.72,0 a2.86,2.86 0 1,0 -5.72,0 Z" />
+    <path android:fillColor="#ffffffff" android:pathData="M57.88,51.48 m-1.04,0 a1.04,1.04 0 1,0 2.08,0 a1.04,1.04 0 1,0 -2.08,0 Z" />
+    <path android:pathData="M35.00,46.80 L42.80,44.20" android:strokeColor="#ff4a2a12" android:strokeWidth="1.56" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M61.00,46.80 L53.20,44.20" android:strokeColor="#ff4a2a12" android:strokeWidth="1.56" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#80ff7a7a" android:pathData="M33.44,58.24 m-3.38,0 a3.38,1.82 0 1,0 6.76,0 a3.38,1.82 0 1,0 -6.76,0 Z" />
+    <path android:fillColor="#80ff7a7a" android:pathData="M62.56,58.24 m-3.38,0 a3.38,1.82 0 1,0 6.76,0 a3.38,1.82 0 1,0 -6.76,0 Z" />
+    <path android:pathData="M44.70,61.38 A3.64,3.64 0 0,1 51.30,61.38" android:strokeColor="#ff4a2a12" android:strokeWidth="1.69" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#ff8fd3ff" android:pathData="M68.28,39.00 Q70.88,43.16 70.62,44.20 A2.34,2.34 0 1,1 65.94,44.20 Q65.68,43.16 68.28,39.00 Z" />
+</vector>

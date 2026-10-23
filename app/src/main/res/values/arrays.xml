@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>Focus on the good…</item>
+        <item>Embrace positivity today…</item>
+        <item>Seek joy, not chaos…</item>
+        <item>Choose happiness over scrolling…</item>
+        <item>Find peace in the moment…</item>
+        <item>Stay present, stay happy…</item>
+        <item>Breathe and enjoy life…</item>
+        <item>Cherish the now…</item>
+        <item>Live in the moment…</item>
+        <item>Focus on what matters…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>Do you really want to fall into this again?</item>
+        <item>Are you sure this won’t turn into an hour?</item>
+        <item>Do you actually want to watch reels?</item>
+        <item>Is this worth feeling drained later?</item>
+        <item>Are you opening this, or is the habit opening it?</item>
+        <item>Do you want a break, or another doom spiral?</item>
+        <item>Are you sure you won’t regret this later?</item>
+        <item>Do you want your focus back, or more scrolling?</item>
+        <item>Do you really want to give this your next hour?</item>
+        <item>Are you choosing this, or just slipping again?</item>
+        <item>Is your brain tired, or asking for more junk?</item>
+        <item>Do you want to relax, or feel worse after?</item>
+        <item>Are you here for fun, or just stuck in the loop?</item>
+        <item>Is this a real break, or the same trap?</item>
+        <item>Do you want to scroll, or take control back?</item>
+        <item>Do you want to stop now, or lose track again?</item>
+        <item>Do you want your focus back, or waste time again?</item>
+        <item>Is this your choice, or your boredom talking?</item>
+        <item>Do you want silence for a second, or another scroll spiral?</item>
+        <item>Are you really missing reels, or just craving the habit?</item>
+        <item>Do you want to break it now, or repeat yesterday?</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>Alright just getting started</item>
+        <item>Still light</item>
+        <item>Not bad yet</item>
+        <item>"We're okay for now"</item>
+        <item>This is still under control</item>
+        <item>Keeping it low</item>
+        <item>"You're within range"</item>
+        <item>Not too deep</item>
+        <item>So far so good</item>
+        <item>Still early</item>
+        <item>Nothing crazy</item>
+        <item>This is fine</item>
+        <item>"You haven't gone off yet"</item>
+        <item>Light scroll</item>
+        <item>"You're holding it"</item>
+        <item>Still manageable</item>
+        <item>"This hasn't blown up"</item>
+        <item>"We're good for now"</item>
+        <item>Not much damage</item>
+        <item>"You're keeping it in check"</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>"I'm getting tired…"</item>
+        <item>This is a lot</item>
+        <item>My neurons are fading</item>
+        <item>"You've been at this a while"</item>
+        <item>The rot is setting in</item>
+        <item>I can feel it melting</item>
+        <item>Please reconsider</item>
+        <item>"This isn't casual anymore"</item>
+        <item>"We're deep in it now"</item>
+        <item>"I'm losing cells here"</item>
+        <item>The damage is real</item>
+        <item>"You're really going for it"</item>
+        <item>I need a break</item>
+        <item>This is excessive</item>
+        <item>My thoughts are getting fuzzy</item>
+        <item>"Can't think straight anymore"</item>
+        <item>The fog is rolling in</item>
+        <item>"You're on a rampage"</item>
+        <item>This is too much</item>
+        <item>"I'm begging you to stop"</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>Can we stop now?</item>
+        <item>"I'm barely hanging on"</item>
+        <item>This is brain abuse</item>
+        <item>"You've gone way too far"</item>
+        <item>"I can't process anymore"</item>
+        <item>Everything is mush</item>
+        <item>The rot is advanced</item>
+        <item>Please have mercy</item>
+        <item>"I'm running on fumes"</item>
+        <item>"You're destroying me"</item>
+        <item>This is unhealthy</item>
+        <item>My last brain cell is crying</item>
+        <item>"I don't remember who I am"</item>
+        <item>The scroll has consumed you</item>
+        <item>"We're past the point of return"</item>
+        <item>"I'm shutting down"</item>
+        <item>This is a crisis</item>
+        <item>You need an intervention</item>
+        <item>"I've lost count of the damage"</item>
+        <item>"There's nothing left up here"</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>"I can't keep up anymore"</item>
+        <item>"It's over for me"</item>
+        <item>Brain status: liquidated</item>
+        <item>"You've completed the rot"</item>
+        <item>"I'm just a puddle now"</item>
+        <item>"There's no coming back"</item>
+        <item>Full brain meltdown</item>
+        <item>Achievement unlocked: brain dead</item>
+        <item>"I don't exist anymore"</item>
+        <item>The rot won</item>
+        <item>You scrolled me into oblivion</item>
+        <item>"I'm beyond saving"</item>
+        <item>This is the end</item>
+        <item>Game over for brain cells</item>
+        <item>"You've peaked in rotting"</item>
+        <item>"I'm a smoothie now"</item>
+        <item>No thoughts, only reels</item>
+        <item>The brain has left the chat</item>
+        <item>Congratulations, you broke me</item>
+        <item>I used to be a brain</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>"Careful. It's adding up"</item>
+        <item>"You're picking up speed"</item>
+        <item>This is starting to stack</item>
+        <item>Getting into risky territory</item>
+        <item>Might want to slow down</item>
+        <item>"The number's climbing"</item>
+        <item>"You're past casual now"</item>
+        <item>This is becoming a habit</item>
+        <item>Starting to feel it</item>
+        <item>Not great, not terrible</item>
+        <item>"You're pushing it"</item>
+        <item>This is more than a peek</item>
+        <item>The scroll is real</item>
+        <item>"You're in deep now"</item>
+        <item>Halfway to the danger zone</item>
+        <item>"It's creeping up"</item>
+        <item>You might regret this later</item>
+        <item>The brain is noticing</item>
+        <item>This is getting serious</item>
+        <item>Slow down maybe?</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+</resources>

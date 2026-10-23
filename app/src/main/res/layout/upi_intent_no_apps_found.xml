@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#9a646464" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="#fff0f1f6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="#ff515978" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:text="NO UPI APPS FOUND" />
+        <TextView android:textSize="14.0dip" android:textColor="#de000000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="20.0dip" android:text="No supporting UPI apps were found on your phone. Please select a different payment method." />
+        <Button android:textColor="#ffffffff" android:id="@id/btn_go_back" android:background="@drawable/button_style" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="GO BACK" />
+    </LinearLayout>
+</RelativeLayout>

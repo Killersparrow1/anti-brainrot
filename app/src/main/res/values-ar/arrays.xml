@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>ركّز على الشيء الكويس…</item>
+        <item>اختر الإيجابية اليوم…</item>
+        <item>دور على راحة بالك، مو الفوضى…</item>
+        <item>اختَر السعادة بدل التمرير…</item>
+        <item>لقَط سكون اللحظة…</item>
+        <item>خليك حاضر، خليك مبسوط…</item>
+        <item>التقط أنفاسك واستمتع بالحياة…</item>
+        <item>عِش اللحظة…</item>
+        <item>عِش اللحظة…</item>
+        <item>ركّز على المهم…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>متأكد إنك حاب تعيد نفس الدوامة؟</item>
+        <item>متأكد إنّها ما حتصير ساعة كاملة؟</item>
+        <item>متأكد إنك حاب تكمل ريلز؟</item>
+        <item>يستاهل تحس بالتعب بعدين؟</item>
+        <item>إنت اللي فاتحه ولا العادة؟</item>
+        <item>استراحة؟ ولا نكمل دوامة التمرير؟</item>
+        <item>متأكّد إنّك ما رح تندم بعدين؟</item>
+        <item>ترجع تركيزك ولا تكمل سكرول؟</item>
+        <item>متأكد إنك حاب تضيع الساعة الجاية على هذا؟</item>
+        <item>إنت قررت كذا ولا رجعت تنزلق؟</item>
+        <item>مخّك تعبان ولا لسه طالع له مزيد من الزبالة؟</item>
+        <item>جاي ترتاح ولا تطلع حاسس أسوأ؟</item>
+        <item>جاي تستمتع ولا عالق في اللّفة؟</item>
+        <item>استراحة حقيقية ولا نفس الفخ؟</item>
+        <item>تبغى تكمل سكرول ولا تسترجع التحكم؟</item>
+        <item>توقف الحين ولا ترجع تضيع وقتك؟</item>
+        <item>ترجع تركيزك ولا تضيّع وقتك من جديد؟</item>
+        <item>قرارك ولا الملل يتحكّم فيك؟</item>
+        <item>ثانية هدوء؟ ولا لفة سكرول جديدة؟</item>
+        <item>وحشتك الريلز فعلًا ولا بس متعود تفتحها؟</item>
+        <item>تبي تكسرها اليوم ولا تعيد فيلم أمس؟</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>يلا نبدأ الحين</item>
+        <item>لسه خفيف</item>
+        <item>لسه مو سيّئ</item>
+        <item>إحنا تمام حالياً</item>
+        <item>لسه مسيطر</item>
+        <item>خليك هادي</item>
+        <item>أنت ضمن الحدود</item>
+        <item>مو مبالغة</item>
+        <item>لحد الآن تمام</item>
+        <item>لسه بدري</item>
+        <item>ولا شي مبالغ فيه</item>
+        <item>كل شي تمام</item>
+        <item>لسه ما انفجرت</item>
+        <item>سكرول خفيف</item>
+        <item>إنت ماسكه</item>
+        <item>لسه مسيطر</item>
+        <item>لسه ما انفجر</item>
+        <item>تمام كذا الحين</item>
+        <item>ضرر بسيط</item>
+        <item>مسيطر عليها</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>بدأت أتعب…</item>
+        <item>كتير</item>
+        <item>خلايّا مخّي عم تطفَى</item>
+        <item>لك فترة مكمل كذا</item>
+        <item>العفن بدأ يشتغل</item>
+        <item>حاسّ مخّي يسيح</item>
+        <item>فكّر شوي</item>
+        <item>الموضوع ما عاد مزحة</item>
+        <item>تورّطنا للآخر</item>
+        <item>مخي قاعد يتبخر</item>
+        <item>الضرر حقيقي</item>
+        <item>أنت قاعد تِبالِغ مرّة</item>
+        <item>أحتاج أرتاح</item>
+        <item>مبالغة</item>
+        <item>أفكاري صارت مشوَّشة</item>
+        <item>مخي بطّل يركّز</item>
+        <item>الضباب جاي</item>
+        <item>إنت فِوَشّ</item>
+        <item>مرّة كثير</item>
+        <item>أرجوك وقّف</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>نوقف هنا؟</item>
+        <item>أنا طايح من التعب</item>
+        <item>إساءة لعقلك</item>
+        <item>إنتَ زوّدتها بزيادة</item>
+        <item>مخي مش قادر يستوعب أكثر</item>
+        <item>كل شي مهروس</item>
+        <item>التعفّن متقدّم</item>
+        <item>ارحمني شوي</item>
+        <item>طالع على آخر نفس</item>
+        <item>قاعد تدمّرني</item>
+        <item>هذا مو صحي</item>
+        <item>آخر خلية في مخي بتبكي</item>
+        <item>مش فاكر أنا مين</item>
+        <item>السكرول بلعك</item>
+        <item>عدّينا نقطة الرجعة</item>
+        <item>قاعد أطفي</item>
+        <item>الوضع كارثة</item>
+        <item>تحتاج تدخلًا سريعًا</item>
+        <item>ما عدت أقدر أحصي الخراب</item>
+        <item>مفيش حاجة فالمخ خلاص</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>ما عدت قادرة أواكب</item>
+        <item>خلاص انتهيت</item>
+        <item>حالة الدماغ: متبخر</item>
+        <item>أنهيت الروت</item>
+        <item>مخي سايح خلاص</item>
+        <item>ما في رجعة</item>
+        <item>دماغي فاصل</item>
+        <item>إنجاز جديد: دماغك طاف</item>
+        <item>ما عدت موجودًا</item>
+        <item>العفن انتصر</item>
+        <item>لفّيت فيّ لحد ما مسحت مخّي</item>
+        <item>حالتي ميؤوس منها</item>
+        <item>النهاية هنا</item>
+        <item>انتهت حياة الخلايا</item>
+        <item>وصلت لقمة الروت</item>
+        <item>أنا سموزي الحين</item>
+        <item>ولا تفكير، بس ريلز</item>
+        <item>المخ غادر الشات</item>
+        <item>مبروك، دمّرتني</item>
+        <item>كنت مخّ</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>انتبه، قاعد تزيد</item>
+        <item>قاعد تزيد السرعة</item>
+        <item>الوضع قاعد يتراكم</item>
+        <item>داخل منطقة خطرة</item>
+        <item>يمكنك تهدي السرعة شوي</item>
+        <item>العدد قاعد يزيد</item>
+        <item>إدمان رسمي الحين</item>
+        <item>صار إدمان</item>
+        <item>بدأت تحس فيها</item>
+        <item>لا حلو ولا سيّئ</item>
+        <item>إنت بتبالغ</item>
+        <item>هذا أكثر من مجرد لمحة</item>
+        <item>السكرول حقيقي</item>
+        <item>تورّطت بزيادة</item>
+        <item>نص الطريق لمنطقة الخطر</item>
+        <item>قاعد يزيد شوي شوي</item>
+        <item>يمكن تندم بعدين</item>
+        <item>المخ يلاحظ</item>
+        <item>الموضوع صار جدّي</item>
+        <item>تبّطأ شوي؟</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>أسرع بـ 0.25 مرة</item>
+        <item>أسرع بـ 0.5 مرات</item>
+        <item>أسرع بـ 0.75 مرة</item>
+        <item>عادية</item>
+        <item>أسرع بـ 1.25 مرة</item>
+        <item>أسرع بـ 1.5 مرة</item>
+        <item>أسرع بمرتين</item>
+    </string-array>
+</resources>

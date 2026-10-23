@@ -1,0 +1,170 @@
+build:
+  maxIssues: 0
+  weights:
+    complexity: 2
+    LongParameterList: 1
+    style: 1
+    comments: 1
+
+formatting:
+  FinalNewline:
+    enabled: true
+  MaximumLineLength:
+    enabled: true
+    maxLineLength: 120
+    excludePackageStatements: true
+    excludeImportStatements: true
+    excludeCommentStatements: false
+  NoWildcardImports:
+    enabled: true
+  Indentation:
+    enabled: true
+    indentSize: 4
+    continuationIndentSize: 4
+  Spacing:
+    enabled: true
+  Wrapping:
+    enabled: true
+
+naming:
+  ClassNaming:
+    enabled: true
+  FunctionNaming:
+    enabled: true
+    parameterNamePattern: '^[a-z][A-Za-z0-9]*$'
+    excludeClassPattern: '^[A-Z]'
+    excludeFunctionPattern: '^[A-Z]'
+  VariableNaming:
+    enabled: true
+    variableNamePattern: '^[a-z][A-Za-z0-9]*$'
+    excludePattern: '^_'
+
+comments:
+  UndocumentedPublicClass:
+    enabled: false
+  UndocumentedPublicFunction:
+    enabled: false
+
+complexity:
+  LongMethod:
+    enabled: true
+    threshold: 60
+  LongParameterList:
+    enabled: true
+    threshold: 6
+    ignoreDefaultValues: true
+    ignoreDataClasses: true
+    ignoreAnnotated: ['Composable']
+  ComplexCondition:
+    enabled: true
+    threshold: 4
+  ComplexInterface:
+    enabled: true
+    threshold: 10
+  LabeledExpression:
+    enabled: true
+  LargeClass:
+    enabled: true
+    threshold: 600
+  Nesting:
+    enabled: true
+    threshold: 4
+  TooManyFunctions:
+    enabled: true
+    thresholdInFiles: 11
+    thresholdInClasses: 11
+    thresholdInInterfaces: 11
+    thresholdInEnums: 11
+    thresholdInObjects: 11
+    ignoreDeprecated: false
+    ignorePrivate: false
+    ignoreOverridden: false
+
+exceptions:
+  TooGenericExceptionCaught:
+    enabled: true
+  ExceptionRaisedInUnexpectedLocation:
+    enabled: true
+  SwallowedException:
+    enabled: true
+    ignoredExceptionTypes:
+      - 'InterruptedException'
+      - 'NumberFormatException'
+      - 'JSONException'
+
+style:
+  WildcardImport:
+    enabled: true
+  UtilityClassWithPublicConstructor:
+    enabled: true
+  NoCommentedOutCode:
+    enabled: true
+  ReturnCount:
+    enabled: true
+    max: 7
+    excludedFunctions:
+      - 'equals'
+      - 'hashCode'
+      - 'toString'
+  MagicNumber:
+    enabled: true
+    ignoreNumbers: [-1, 0, 1, 2]
+    ignorePropertyDeclaration: true
+    ignoreLocalVariableDeclaration: true
+    ignoreConstantDeclaration: true
+    ignoreCompanionObjectPropertyDeclaration: true
+    ignoreAnnotation: true
+    ignoreNamedArgument: true
+    ignoreEnums: true
+  MandatoryBracesIfStatements:
+    enabled: true
+  MandatoryBracesLoops:
+    enabled: true
+  MaxChainedCallsOnSameLine:
+    enabled: true
+  NewLineAtEndOfFile:
+    enabled: true
+
+potential-bugs:
+  UnsafeCallOnNullableType:
+    enabled: true
+  NullSafeCollectionOperators:
+    enabled: true
+  UnreachableCode:
+    enabled: true
+  ReturnFromFinally:
+    enabled: true
+  IteratorHasNextCallsNextMethod:
+    enabled: true
+
+performance:
+  ArrayPrimitive:
+    enabled: true
+  SpreadOperator:
+    enabled: true
+  ForEachOnRange:
+    enabled: true
+
+overrides:
+  - path: '**/test/**'
+    config:
+      complexity:
+        LongMethod:
+          threshold: 100
+        LongParameterList:
+          threshold: 8
+      style:
+        MagicNumber:
+          enabled: false
+        ReturnCount:
+          max: 10
+      comments:
+        UndocumentedPublicClass:
+          enabled: false
+        UndocumentedPublicFunction:
+          enabled: false
+
+  - path: '**/generated/**'
+    config:
+      all:
+        enabled: false

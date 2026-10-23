@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@android:id/background" android:background="@drawable/buddy_widget_card_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:clipToOutline="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/buddy_clean_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/buddy_scene_bg_dawn" android:scaleType="fitXY" android:importantForAccessibility="no" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.54" />
+        <ImageView android:id="@id/buddy_clean_brain" android:layout_width="0.0dip" android:layout_height="fill_parent" android:scaleType="fitEnd" android:layout_weight="0.46" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="start|center|top" android:orientation="vertical" android:id="@id/buddy_clean_count" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/buddy_clean_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+        <ImageView android:id="@id/buddy_clean_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitStart" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="start|bottom|center" android:id="@id/buddy_clean_headline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="14.0dip" android:scaleType="fitStart" android:importantForAccessibility="no" android:layout_marginStart="14.0dip" />
+</FrameLayout>

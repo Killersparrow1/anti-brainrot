@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>İyi olana odaklan…</item>
+        <item>Bugün iyiye odaklan…</item>
+        <item>Kaosu değil, keyfi seç…</item>
+        <item>Kaydırmaya değil, mutluluğa seç</item>
+        <item>Anın huzurunu yakala…</item>
+        <item>Anda kal, mutlu kal…</item>
+        <item>Derin bir nefes al, hayatın tadını çıkar…</item>
+        <item>Şu ana sarıl…</item>
+        <item>Anı yaşa…</item>
+        <item>Önemli olana odaklan…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>Yine bu tuzağa düşmek mi istiyorsun?</item>
+        <item>Bu yine bir saate dönmesin?</item>
+        <item>Gerçekten Reels izlemek istiyor musun?</item>
+        <item>Sonra böyle bitkin hissetmeye değer mi?</item>
+        <item>Sen mi açıyorsun, yoksa alışkanlığın mı?</item>
+        <item>Mola mı, yoksa bir doom spiral daha mı?</item>
+        <item>Sonra pişman olmayacaksın, emin misin?</item>
+        <item>Odağına mı dönüyorsun, yine mi kayıyorsun?</item>
+        <item>Gerçekten bir saatinizi buna mı vereceksiniz?</item>
+        <item>Bunu sen mi seçiyorsun, yoksa yine kayıyor musun?</item>
+        <item>Beynin yorgun mu, yoksa daha çok abur cubur mu istiyor?</item>
+        <item>Rahatlamak mı istiyorsun, yoksa daha da kötü hissetmek mi?</item>
+        <item>Eğleniyor musun, yoksa yine aynı döngüde mi takıldın?</item>
+        <item>Gerçek mola mı, aynı tuzak mı?</item>
+        <item>Kaydırmaya mı devam, yoksa kontrolü geri mi alacaksın?</item>
+        <item>Şimdi mi duracaksın, yine mi kaybolacaksın?</item>
+        <item>Odağını geri mi alacaksın, yine mi harcayacaksın?</item>
+        <item>Bu sen misin, yoksa can sıkıntın mı konuşuyor?</item>
+        <item>Biraz sessizlik mi, yoksa yeni bir kaydırma girdabı mı?</item>
+        <item>Gerçekten reels mi özlüyorsun, yoksa sadece alışkanlığı mı?</item>
+        <item>Şimdi mi kıracaksın, yoksa dünü mü tekrar edeceksin?</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>Tam yeni başlıyoruz</item>
+        <item>Hâlâ hafif</item>
+        <item>Daha fena değil</item>
+        <item>Şimdilik iyiyiz</item>
+        <item>Hâlâ kontrol altında</item>
+        <item>Düşük tut</item>
+        <item>Hedefe yakınsın</item>
+        <item>Çok da değil</item>
+        <item>Şimdilik iyi gidiyor</item>
+        <item>Daha erken</item>
+        <item>Abartı yok</item>
+        <item>Sorun yok</item>
+        <item>Daha kopmadın</item>
+        <item>Hafif kaydır</item>
+        <item>Elinde şu an</item>
+        <item>Hâlâ kontrol altında</item>
+        <item>Bu daha patlamadı</item>
+        <item>Şimdilik iyiyiz</item>
+        <item>Pek zarar yok</item>
+        <item>Kontrol sende</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>Yoruldum artık…</item>
+        <item>Bu biraz fazla</item>
+        <item>Nöronlarım çöküyor</item>
+        <item>Epey oldu buradasın</item>
+        <item>Beyin çürüyor</item>
+        <item>Eriyor resmen</item>
+        <item>Bir daha düşün</item>
+        <item>Bu artık şaka değil</item>
+        <item>Artık iyice battık</item>
+        <item>Burada beyin hücresi kaybediyorum</item>
+        <item>Hasar gerçek</item>
+        <item>Harbi yükleniyorsun</item>
+        <item>Bir mola lazım</item>
+        <item>Bu artık fazla</item>
+        <item>Kafam bulanıyor</item>
+        <item>Artık kafam basmıyor</item>
+        <item>Sis çökmeye başlıyor</item>
+        <item>Coşmuşsun</item>
+        <item>Bu kadarı fazla</item>
+        <item>Yalvarıyorum, dur</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>Artık duralım mı?</item>
+        <item>Zor dayanıyorum</item>
+        <item>Beynine eziyet bu</item>
+        <item>Çok fena abarttın</item>
+        <item>Beynim almıyor artık</item>
+        <item>Beynim lapa</item>
+        <item>Çürüme ilerlemiş</item>
+        <item>Acı bana</item>
+        <item>Son demlerimdeyim</item>
+        <item>Beni bitiriyorsun</item>
+        <item>Bu sağlıklı değil</item>
+        <item>Son beynim ağlıyor</item>
+        <item>Kim olduğumu unuttum</item>
+        <item>Scroll seni ele geçirmiş</item>
+        <item>Dönüşü olmayan noktadayız</item>
+        <item>Kapanıyorum</item>
+        <item>Bu bir kriz</item>
+        <item>Müdahalesiz olmaz</item>
+        <item>Zararın sayısını unuttum</item>
+        <item>Burada beyin kalmamış</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>Artık yetişemiyorum</item>
+        <item>Ben bittim</item>
+        <item>Beyin durumu: eridi</item>
+        <item>Rotu tamamladın</item>
+        <item>Beynim eridi resmen</item>
+        <item>Dönüş yok</item>
+        <item>Beyin komple yandı</item>
+        <item>Başarı açıldı: beyin yandı</item>
+        <item>Artık yokum</item>
+        <item>Çürük kazandı</item>
+        <item>Beni sonsuza kadar kaydırdın</item>
+        <item>Benlikten çıktım</item>
+        <item>Buraya kadar</item>
+        <item>Beyin hücrelerine game over</item>
+        <item>Çürümekte zirvedesin</item>
+        <item>Artık smootie oldum</item>
+        <item>Beyin yok, sadece reels</item>
+        <item>Beyin sohbete veda etti</item>
+        <item>Tebrikler, beni bozdun</item>
+        <item>Eskiden beynim vardı</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>Dikkat, birikiyor</item>
+        <item>İyice hızlandın</item>
+        <item>Bu iş kontrolden çıkıyor</item>
+        <item>Tehlikeli sulara giriyorsun</item>
+        <item>Biraz yavaşlasan iyi olur</item>
+        <item>Sayı uçuyor</item>
+        <item>Artık işin şakası yok</item>
+        <item>Bu iş alışkanlığa dönüyor</item>
+        <item>Yavaş yavaş hissediyorsun</item>
+        <item>Ne iyi ne kötü</item>
+        <item>Sınırı zorluyorsun</item>
+        <item>Bu sadece ufak bir bakış değil</item>
+        <item>Scroll gerçeği</item>
+        <item>Artık çok derindesin</item>
+        <item>Tehlike bölgesine yarı yol</item>
+        <item>Yavaş yavaş artıyor</item>
+        <item>Sonra pişman olabilirsin</item>
+        <item>Beyin farkında</item>
+        <item>İş ciddileşiyor</item>
+        <item>Bi’ yavaşla?</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+</resources>

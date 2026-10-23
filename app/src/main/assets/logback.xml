@@ -1,0 +1,52 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" debug="true"
+    xmlns="https://tony19.github.io/logback-android/xml"
+    xsi:schemaLocation="https://tony19.github.io/logback-android/xml https://cdn.jsdelivr.net/gh/tony19/logback-android/logback.xsd">
+
+    <property name="LOG_DIR" value="${DATA_DIR}/logs" />
+
+    <!-- Logcat appender -->
+    <appender name="LOGCAT" class="ch.qos.logback.classic.android.LogcatAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_DIR}/debug.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_DIR}/debug.%d{yyyy-MM-dd_HH}.%i.log.gz</fileNamePattern>
+            <maxHistory>24</maxHistory>
+            <maxFileSize>1MB</maxFileSize>
+            <totalSizeCap>5MB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+        <!-- Set the filter level to INFO -->
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+    </appender>
+
+    <!-- File I/O must never block the UI or counter service. Keep the existing
+         INFO filter ahead of the bounded queue so scan debug logs cannot fill it. -->
+    <appender name="ASYNC_FILE" class="ch.qos.logback.classic.AsyncAppender">
+        <queueSize>1024</queueSize>
+        <discardingThreshold>0</discardingThreshold>
+        <neverBlock>true</neverBlock>
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+        <appender-ref ref="FILE" />
+    </appender>
+
+    <!-- Root logger configuration -->
+    <root level="TRACE">
+        <appender-ref ref="LOGCAT" />
+        <appender-ref ref="ASYNC_FILE" />
+    </root>
+
+    <!-- Specific logger configuration (optional) -->
+    <logger name="com.brainrot.android.BrainRotApplication" level="TRACE" />
+</configuration>

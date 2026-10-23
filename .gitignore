@@ -1,0 +1,87 @@
+# Build outputs
+/build
+/app/build
+/**/build/
+
+# Gradle
+.gradle/
+/gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+.DS_Store
+
+# Local configuration
+local.properties
+gradle.properties.local
+signing.properties
+
+# Keystores
+*.jks
+*.keystore
+debug.keystore
+
+# API Keys / Secrets
+google-services.json
+**/google-services.json
+**/secrets.properties
+
+# Generated files
+/app/src/main/java/com/brainrot/android/BuildConfig.java
+/app/src/main/java/com/brainrot/android/R.java
+/**/generated/
+
+# Room schema exports
+/schemas/
+
+# Test outputs
+/**/test-results/
+/**/reports/
+
+# Coverage
+/**/coverage/
+/**/*.ec
+
+# Profiling
+*.hprof
+
+# Crashlytics
+**/crashlytics-build.properties
+**/crashlytics.properties
+
+# Firebase
+**/firebase-*.json
+
+# Kotlin
+*.kotlin_module
+
+# Misc
+*.log
+*.tmp
+*.bak
+*.orig
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Android Studio
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Bundletool
+*.ks

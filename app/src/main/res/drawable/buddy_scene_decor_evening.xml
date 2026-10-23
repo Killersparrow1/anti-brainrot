@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="200.0dip" android:width="200.0dip" android:viewportWidth="200.0" android:viewportHeight="200.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <path android:fillColor="@drawable/$buddy_scene_decor_evening__0" android:pathData="M170.00,40.00 m-90.00,0 a90.00,90.00 0 1,0 180.00,0 a90.00,90.00 0 1,0 -180.00,0 Z" />
+    <path android:fillColor="#73ffffff" android:pathData="M186.00,112.28 Q187.60,116.40 191.72,118.00 Q187.60,119.60 186.00,123.72 Q184.40,119.60 180.28,118.00 Q184.40,116.40 186.00,112.28 Z" />
+    <path android:fillColor="#50ffffff" android:pathData="M98.00,18.00 m-1.08,0 a1.08,1.08 0 1,0 2.16,0 a1.08,1.08 0 1,0 -2.16,0 Z" />
+    <path android:fillColor="#50ffffff" android:pathData="M60.00,30.00 m-0.84,0 a0.84,0.84 0 1,0 1.68,0 a0.84,0.84 0 1,0 -1.68,0 Z" />
+    <path android:fillColor="#73ffffff" android:pathData="M164.00,146.48 Q164.99,149.01 167.52,150.00 Q164.99,150.99 164.00,153.52 Q163.01,150.99 160.48,150.00 Q163.01,149.01 164.00,146.48 Z" />
+    <path android:fillColor="#50ffffff" android:pathData="M132.00,88.00 m-0.84,0 a0.84,0.84 0 1,0 1.68,0 a0.84,0.84 0 1,0 -1.68,0 Z" />
+</vector>

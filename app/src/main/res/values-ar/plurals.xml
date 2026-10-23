@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anti_cancel_reminder_recap_blocked">
+        <item quantity="other">انحظر %1$d ريل لين الحين.</item>
+        <item quantity="one">انحظر %1$d ريل لين الحين.</item>
+    </plurals>
+    <plurals name="anti_cancel_reminder_recap_counted">
+        <item quantity="other">انحسب %1$d ريل لين الحين.</item>
+        <item quantity="one">انحسب %1$d ريل لين الحين.</item>
+    </plurals>
+    <plurals name="battle_stats_wins">
+        <item quantity="other">%1$d فوز</item>
+        <item quantity="one">%1$d فوز</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="other">%1$d س</item>
+        <item quantity="one">%1$d ساعة</item>
+    </plurals>
+    <plurals name="buddy_scene_ring_unit">
+        <item quantity="other">ريل اليوم</item>
+        <item quantity="one">ريل اليوم</item>
+    </plurals>
+    <plurals name="buddy_widget_label_days_away">
+        <item quantity="other">أيام غياب</item>
+        <item quantity="one">يوم غياب</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="home_comeback_reels_count">
+        <item quantity="other">%1$d ريل</item>
+        <item quantity="zero">%1$d ريلز</item>
+        <item quantity="one">%1$d ريل</item>
+        <item quantity="two">%1$d ريل</item>
+        <item quantity="few">%1$d ريلز</item>
+        <item quantity="many">%1$d ريل</item>
+    </plurals>
+    <plurals name="home_delta_fewer_than_yesterday">
+        <item quantity="other">أقل بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="zero">أقل بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="one">أقل بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="two">أقل بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="few">أقل بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="many">أقل بـ %1$d من أمس بنفس الوقت</item>
+    </plurals>
+    <plurals name="home_delta_more_than_yesterday">
+        <item quantity="other">أكثر بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="zero">أكثر بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="one">أكثر بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="two">أكثر بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="few">أكثر بـ %1$d من أمس بنفس الوقت</item>
+        <item quantity="many">أكثر بـ %1$d من أمس بنفس الوقت</item>
+    </plurals>
+    <plurals name="home_delta_share_message">
+        <item quantity="other">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+        <item quantity="zero">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+        <item quantity="one">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+        <item quantity="two">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+        <item quantity="few">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+        <item quantity="many">"لحد الحين شفت %1$d ريل أقل من أمس. تقدر تغلبني؟
+%2$s"</item>
+    </plurals>
+    <plurals name="logout_guard_title_count">
+        <item quantity="other">%1$d ريل للحين ما انحفظت</item>
+        <item quantity="zero">%1$d ريل للحين ما انحفظت</item>
+        <item quantity="one">%1$d ريل للحين ما انحفظ</item>
+        <item quantity="two">%1$d ريل للحين ما انحفظوا</item>
+        <item quantity="few">%1$d ريلز للحين ما انحفظت</item>
+        <item quantity="many">%1$d ريل للحين ما انحفظت</item>
+    </plurals>
+    <plurals name="ob_story_long_days_headline">
+        <item quantity="other">"**%1$d يوم** في السنة
+جوه الريلز"</item>
+        <item quantity="zero">"**%1$d يوم** في السنة
+جوه الريلز"</item>
+        <item quantity="one">"**%1$d يوم** في السنة
+جوه الريلز"</item>
+        <item quantity="two">"**%1$d يومين** في السنة
+جوه الريلز"</item>
+        <item quantity="few">"**%1$d أيام** في السنة
+جوه الريلز"</item>
+        <item quantity="many">"**%1$d يومًا** في السنة
+جوه الريلز"</item>
+    </plurals>
+    <plurals name="ob_story_long_days_line">
+        <item quantity="other">من إجابتك: %1$d ساعة كل يوم.</item>
+        <item quantity="zero">من إجابتك: %1$d ساعة كل يوم.</item>
+        <item quantity="one">من إجابتك: %1$d ساعة كل يوم.</item>
+        <item quantity="two">من إجابتك: %1$d ساعتين كل يوم.</item>
+        <item quantity="few">من إجابتك: %1$d ساعات كل يوم.</item>
+        <item quantity="many">من إجابتك: %1$d ساعة كل يوم.</item>
+    </plurals>
+    <plurals name="ob_story_long_goal_headline">
+        <item quantity="other">"**%1$d ساعة** في الأسبوع
+عشان %2$s"</item>
+        <item quantity="zero">"**%1$d ساعة** في الأسبوع
+عشان %2$s"</item>
+        <item quantity="one">"**%1$d ساعة** في الأسبوع
+عشان %2$s"</item>
+        <item quantity="two">"**%1$d ساعتين** في الأسبوع
+عشان %2$s"</item>
+        <item quantity="few">"**%1$d ساعات** في الأسبوع
+عشان %2$s"</item>
+        <item quantity="many">"**%1$d ساعة** في الأسبوع
+عشان %2$s"</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_break">
+        <item quantity="other">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+        <item quantity="zero">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+        <item quantity="one">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+        <item quantity="two">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+        <item quantity="few">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+        <item quantity="many">%1$d أكثر من أمس بنفس الوقت. تاخذ استراحة؟</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_night">
+        <item quantity="other">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+        <item quantity="zero">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+        <item quantity="one">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+        <item quantity="two">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+        <item quantity="few">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+        <item quantity="many">%1$d أكثر من أمس بنفس الوقت. تخلّي الجوال الليلة؟</item>
+    </plurals>
+    <plurals name="pace_nudge_title">
+        <item quantity="other">%1$d ريل اليوم لين الحين</item>
+        <item quantity="zero">%1$d ريلز اليوم لين الحين</item>
+        <item quantity="one">%1$d ريل اليوم لين الحين</item>
+        <item quantity="two">%1$d ريل اليوم لين الحين</item>
+        <item quantity="few">%1$d ريلز اليوم لين الحين</item>
+        <item quantity="many">%1$d ريل اليوم لين الحين</item>
+    </plurals>
+    <plurals name="stats_bar_reels">
+        <item quantity="other">%d ريل</item>
+        <item quantity="one">%d ريل</item>
+    </plurals>
+    <plurals name="trial_ending_blocks_title">
+        <item quantity="other">%1$d ريل انحظر</item>
+        <item quantity="one">%1$d ريل انحظر</item>
+    </plurals>
+    <plurals name="trial_ending_reels_title">
+        <item quantity="other">%1$d ريل في هالتجربة</item>
+        <item quantity="one">%1$d ريل في هالتجربة</item>
+    </plurals>
+    <plurals name="weekly_story_label_hours">
+        <item quantity="other">ريل (%1$d ساعات)</item>
+        <item quantity="one">ريل (%1$d ساعة)</item>
+    </plurals>
+    <plurals name="weekly_story_share_text">
+        <item quantity="other">هذا الأسبوع سكرولت %1$d ريل. تقدر تغلب أسبوعي؟ %2$s</item>
+        <item quantity="one">هذا الأسبوع سكرولت %1$d ريل. تقدر تغلب أسبوعي؟ %2$s</item>
+    </plurals>
+    <plurals name="widget_second_ask_body">
+        <item quantity="other">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+        <item quantity="zero">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+        <item quantity="one">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+        <item quantity="two">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+        <item quantity="few">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+        <item quantity="many">ريلزك اليوم: %1$d، بدون ما تفتح التطبيق.</item>
+    </plurals>
+    <plurals name="wrap_friends_lighter">
+        <item quantity="other">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+        <item quantity="zero">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+        <item quantity="one">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+        <item quantity="two">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+        <item quantity="few">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+        <item quantity="many">%1$d من %2$d من أصدقائك مرّروا أقل منك.</item>
+    </plurals>
+    <plurals name="wrap_home_card_subtitle">
+        <item quantity="other">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="zero">%1$d ريلز. شوف كيف كان يومك.</item>
+        <item quantity="one">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="two">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="few">%1$d ريلز. شوف كيف كان يومك.</item>
+        <item quantity="many">%1$d ريل. شوف كيف كان يومك.</item>
+    </plurals>
+    <plurals name="wrap_longest_line">
+        <item quantity="other">%1$d ريل بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+        <item quantity="zero">%1$d ريلز بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+        <item quantity="one">%1$d ريل بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+        <item quantity="two">%1$d ريل بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+        <item quantity="few">%1$d ريلز بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+        <item quantity="many">%1$d ريل بدون ما ترفع عينك، من %2$s إلى %3$s.</item>
+    </plurals>
+    <plurals name="wrap_minutes_short">
+        <item quantity="other">%1$d د</item>
+        <item quantity="zero">%1$d د</item>
+        <item quantity="one">%1$d د</item>
+        <item quantity="two">%1$d د</item>
+        <item quantity="few">%1$d د</item>
+        <item quantity="many">%1$d د</item>
+    </plurals>
+    <plurals name="wrap_notification_body">
+        <item quantity="other">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="zero">%1$d ريلز. شوف كيف كان يومك.</item>
+        <item quantity="one">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="two">%1$d ريل. شوف كيف كان يومك.</item>
+        <item quantity="few">%1$d ريلز. شوف كيف كان يومك.</item>
+        <item quantity="many">%1$d ريل. شوف كيف كان يومك.</item>
+    </plurals>
+    <plurals name="wrap_pattern_opens">
+        <item quantity="other">مرة فتحت فيها الريلز</item>
+        <item quantity="zero">مرات فتحت فيها الريلز</item>
+        <item quantity="one">مرة فتحت فيها الريلز</item>
+        <item quantity="two">مرة فتحت فيها الريلز</item>
+        <item quantity="few">مرات فتحت فيها الريلز</item>
+        <item quantity="many">مرة فتحت فيها الريلز</item>
+    </plurals>
+    <plurals name="wrap_personality_boomerang_badge">
+        <item quantity="other">رجعت خلال 5 دقائق · %1$d مرة</item>
+        <item quantity="zero">رجعت خلال 5 دقائق · %1$d مرات</item>
+        <item quantity="one">رجعت خلال 5 دقائق · %1$d مرة</item>
+        <item quantity="two">رجعت خلال 5 دقائق · %1$d مرة</item>
+        <item quantity="few">رجعت خلال 5 دقائق · %1$d مرات</item>
+        <item quantity="many">رجعت خلال 5 دقائق · %1$d مرة</item>
+    </plurals>
+    <plurals name="wrap_personality_deep_diver_badge">
+        <item quantity="other">%1$d ريل في جلسة وحدة</item>
+        <item quantity="zero">%1$d ريلز في جلسة وحدة</item>
+        <item quantity="one">%1$d ريل في جلسة وحدة</item>
+        <item quantity="two">%1$d ريل في جلسة وحدة</item>
+        <item quantity="few">%1$d ريلز في جلسة وحدة</item>
+        <item quantity="many">%1$d ريل في جلسة وحدة</item>
+    </plurals>
+    <plurals name="wrap_personality_early_bird_badge">
+        <item quantity="other">%1$d%% قبل 10 الصبح</item>
+        <item quantity="zero">%1$d%% قبل 10 الصبح</item>
+        <item quantity="one">%1$d%% قبل 10 الصبح</item>
+        <item quantity="two">%1$d%% قبل 10 الصبح</item>
+        <item quantity="few">%1$d%% قبل 10 الصبح</item>
+        <item quantity="many">%1$d%% قبل 10 الصبح</item>
+    </plurals>
+    <plurals name="wrap_personality_feed_hopper_badge">
+        <item quantity="other">%1$d تنقّل بين التطبيقات</item>
+        <item quantity="zero">%1$d تنقّلات بين التطبيقات</item>
+        <item quantity="one">%1$d تنقّل بين التطبيقات</item>
+        <item quantity="two">%1$d تنقّل بين التطبيقات</item>
+        <item quantity="few">%1$d تنقّلات بين التطبيقات</item>
+        <item quantity="many">%1$d تنقّل بين التطبيقات</item>
+    </plurals>
+    <plurals name="wrap_personality_light_touch_badge">
+        <item quantity="other">%1$d ريل بس</item>
+        <item quantity="zero">%1$d ريلز بس</item>
+        <item quantity="one">%1$d ريل بس</item>
+        <item quantity="two">%1$d ريل بس</item>
+        <item quantity="few">%1$d ريلز بس</item>
+        <item quantity="many">%1$d ريل بس</item>
+    </plurals>
+    <plurals name="wrap_personality_night_owl_badge">
+        <item quantity="other">%1$d%% آخر الليل</item>
+        <item quantity="zero">%1$d%% آخر الليل</item>
+        <item quantity="one">%1$d%% آخر الليل</item>
+        <item quantity="two">%1$d%% آخر الليل</item>
+        <item quantity="few">%1$d%% آخر الليل</item>
+        <item quantity="many">%1$d%% آخر الليل</item>
+    </plurals>
+    <plurals name="wrap_personality_snacker_badge">
+        <item quantity="other">%1$d زيارة سريعة</item>
+        <item quantity="zero">%1$d زيارات سريعة</item>
+        <item quantity="one">%1$d زيارة سريعة</item>
+        <item quantity="two">%1$d زيارة سريعة</item>
+        <item quantity="few">%1$d زيارات سريعة</item>
+        <item quantity="many">%1$d زيارة سريعة</item>
+    </plurals>
+    <plurals name="wrap_personality_steady_badge">
+        <item quantity="other">%1$d ريل، موزّعة على اليوم</item>
+        <item quantity="zero">%1$d ريلز، موزّعة على اليوم</item>
+        <item quantity="one">%1$d ريل، موزّعة على اليوم</item>
+        <item quantity="two">%1$d ريل، موزّعة على اليوم</item>
+        <item quantity="few">%1$d ريلز، موزّعة على اليوم</item>
+        <item quantity="many">%1$d ريل، موزّعة على اليوم</item>
+    </plurals>
+    <plurals name="wrap_reels">
+        <item quantity="other">ريل</item>
+        <item quantity="zero">ريلز</item>
+        <item quantity="one">ريل</item>
+        <item quantity="two">ريل</item>
+        <item quantity="few">ريلز</item>
+        <item quantity="many">ريل</item>
+    </plurals>
+    <plurals name="wrap_reels_in_time">
+        <item quantity="other">ريل خلال %1$s</item>
+        <item quantity="zero">ريلز خلال %1$s</item>
+        <item quantity="one">ريل خلال %1$s</item>
+        <item quantity="two">ريل خلال %1$s</item>
+        <item quantity="few">ريلز خلال %1$s</item>
+        <item quantity="many">ريل خلال %1$s</item>
+    </plurals>
+</resources>

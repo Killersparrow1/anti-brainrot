@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anti_cancel_reminder_recap_blocked">
+        <item quantity="other">Đã chặn %1$d reel đến giờ.</item>
+        <item quantity="one">Đã chặn %1$d reel đến giờ.</item>
+    </plurals>
+    <plurals name="anti_cancel_reminder_recap_counted">
+        <item quantity="other">Đã đếm %1$d reel đến giờ.</item>
+        <item quantity="one">Đã đếm %1$d reel đến giờ.</item>
+    </plurals>
+    <plurals name="battle_stats_wins">
+        <item quantity="other">%1$d trận thắng</item>
+        <item quantity="one">%1$d trận thắng</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="other">%1$d giờ</item>
+        <item quantity="one">%1$d giờ</item>
+    </plurals>
+    <plurals name="buddy_scene_ring_unit">
+        <item quantity="other">reel hôm nay</item>
+        <item quantity="one">reel hôm nay</item>
+    </plurals>
+    <plurals name="buddy_widget_label_days_away">
+        <item quantity="other">ngày vắng mặt</item>
+        <item quantity="one">ngày vắng mặt</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="home_comeback_reels_count">
+        <item quantity="other">%1$d reel</item>
+    </plurals>
+    <plurals name="home_delta_fewer_than_yesterday">
+        <item quantity="other">Ít hơn %1$d so với giờ này hôm qua</item>
+        <item quantity="one">Ít hơn %1$d so với giờ này hôm qua</item>
+    </plurals>
+    <plurals name="home_delta_more_than_yesterday">
+        <item quantity="other">Nhiều hơn %1$d so với giờ này hôm qua</item>
+        <item quantity="one">Nhiều hơn %1$d so với giờ này hôm qua</item>
+    </plurals>
+    <plurals name="home_delta_share_message">
+        <item quantity="other">"Tới giờ mình xem ít hơn hôm qua %1$d reels. Bạn thắng nổi không?
+%2$s"</item>
+        <item quantity="one">"Tới giờ mình xem ít hơn hôm qua %1$d reels. Bạn thắng nổi không?
+%2$s"</item>
+    </plurals>
+    <plurals name="logout_guard_title_count">
+        <item quantity="other">%1$d reel chưa được lưu</item>
+    </plurals>
+    <plurals name="ob_story_long_days_headline">
+        <item quantity="other">"**%1$d ngày** mỗi năm
+trong reels"</item>
+    </plurals>
+    <plurals name="ob_story_long_days_line">
+        <item quantity="other">Theo câu trả lời của bạn: %1$d giờ mỗi ngày, ngày nào cũng vậy.</item>
+    </plurals>
+    <plurals name="ob_story_long_goal_headline">
+        <item quantity="other">"**%1$d giờ** mỗi tuần
+cho %2$s"</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_break">
+        <item quantity="other">Nhiều hơn %1$d so với giờ này hôm qua. Nghỉ chút nhé?</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_night">
+        <item quantity="other">Nhiều hơn %1$d so với giờ này hôm qua. Tối nay buông máy nhé?</item>
+    </plurals>
+    <plurals name="pace_nudge_title">
+        <item quantity="other">Hôm nay đã lướt %1$d reel</item>
+    </plurals>
+    <plurals name="stats_bar_reels">
+        <item quantity="other">%d reel</item>
+        <item quantity="one">%d reel</item>
+    </plurals>
+    <plurals name="trial_ending_blocks_title">
+        <item quantity="other">Đã chặn %1$d reel</item>
+        <item quantity="one">Đã chặn %1$d reel</item>
+    </plurals>
+    <plurals name="trial_ending_reels_title">
+        <item quantity="other">%1$d reel trong đợt dùng thử</item>
+        <item quantity="one">%1$d reel trong đợt dùng thử</item>
+    </plurals>
+    <plurals name="weekly_story_label_hours">
+        <item quantity="other">reel (%1$d giờ)</item>
+        <item quantity="one">reel (%1$d giờ)</item>
+    </plurals>
+    <plurals name="weekly_story_share_text">
+        <item quantity="other">Tuần này mình đã lướt %1$d reel. Thắng được tuần của mình không? %2$s</item>
+        <item quantity="one">Tuần này mình đã lướt %1$d reel. Thắng được tuần của mình không? %2$s</item>
+    </plurals>
+    <plurals name="widget_second_ask_body">
+        <item quantity="other">%1$d reel hôm nay của bạn, không cần mở app.</item>
+    </plurals>
+    <plurals name="wrap_friends_lighter">
+        <item quantity="other">%1$d trong %2$d người bạn lướt ít hơn bạn.</item>
+    </plurals>
+    <plurals name="wrap_home_card_subtitle">
+        <item quantity="other">%1$d reel. Xem ngày của bạn thế nào.</item>
+    </plurals>
+    <plurals name="wrap_longest_line">
+        <item quantity="other">%1$d reel liền một mạch, từ %2$s đến %3$s.</item>
+    </plurals>
+    <plurals name="wrap_minutes_short">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="wrap_notification_body">
+        <item quantity="other">%1$d reel. Xem ngày của bạn thế nào.</item>
+    </plurals>
+    <plurals name="wrap_pattern_opens">
+        <item quantity="other">lần bạn mở reel</item>
+    </plurals>
+    <plurals name="wrap_personality_boomerang_badge">
+        <item quantity="other">Quay lại sau 5 phút · %1$d lần</item>
+    </plurals>
+    <plurals name="wrap_personality_deep_diver_badge">
+        <item quantity="other">%1$d reel một lèo</item>
+    </plurals>
+    <plurals name="wrap_personality_early_bird_badge">
+        <item quantity="other">%1$d%% trước 10 giờ sáng</item>
+    </plurals>
+    <plurals name="wrap_personality_feed_hopper_badge">
+        <item quantity="other">%1$d lần chuyển ứng dụng</item>
+    </plurals>
+    <plurals name="wrap_personality_light_touch_badge">
+        <item quantity="other">Chỉ %1$d reel</item>
+    </plurals>
+    <plurals name="wrap_personality_night_owl_badge">
+        <item quantity="other">%1$d%% lúc khuya</item>
+    </plurals>
+    <plurals name="wrap_personality_snacker_badge">
+        <item quantity="other">%1$d lần ghé nhanh</item>
+    </plurals>
+    <plurals name="wrap_personality_steady_badge">
+        <item quantity="other">%1$d reel, rải rác</item>
+    </plurals>
+    <plurals name="wrap_reels">
+        <item quantity="other">reel</item>
+    </plurals>
+    <plurals name="wrap_reels_in_time">
+        <item quantity="other">reel trong %1$s</item>
+    </plurals>
+</resources>

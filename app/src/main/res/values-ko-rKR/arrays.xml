@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>좋은 것에 집중하기</item>
+        <item>오늘은 좋은 것만 채우기…</item>
+        <item>혼란 말고 행복을</item>
+        <item>스크롤 말고 행복 선택하기…</item>
+        <item>지금 이 순간, 잠시 쉬어가요</item>
+        <item>지금에 머물면, 더 행복해져요</item>
+        <item>숨 쉬고, 삶을 느껴봐…</item>
+        <item>지금 이 순간을</item>
+        <item>지금에 집중해요</item>
+        <item>진짜 중요한 것에 집중하기…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>또 이 늪에 빠지고 싶어?</item>
+        <item>이러다 또 한 시간 순삭 아니지?</item>
+        <item>진짜 릴스 더 볼 거야?</item>
+        <item>나중에 퍼질 만큼 가치 있어?</item>
+        <item>지금 너야, 아니면 습관이야?</item>
+        <item>잠깐 쉴래, 아니면 또 딥다이브 갈래?</item>
+        <item>나중에 후회 안 할 자신 있어?</item>
+        <item>집중 되찾을래, 더 스크롤할래?</item>
+        <item>진짜 이 한 시간을 여기에 쓸 거야?</item>
+        <item>네가 선택한 거야, 또 미끄러진 거야?</item>
+        <item>뇌가 진짜 피곤한 거야, 아니면 또 자극 찾는 거야?</item>
+        <item>진짜 쉬고 싶어, 끝나고 더 찝찝해지고 싶어?</item>
+        <item>지금 즐기는 거야, 아니면 그냥 무한 루프야?</item>
+        <item>진짜 쉬는 중이야, 또 같은 늪이야?</item>
+        <item>계속 스크롤할래, 이제 내가 컨트롤할까?</item>
+        <item>지금 그만할래, 또 정신 놓고 볼래?</item>
+        <item>다시 집중할래, 또 시간 버릴래?</item>
+        <item>네 선택이야, 아니면 그냥 심심해서야?</item>
+        <item>잠깐만 숨 돌릴래, 아니면 또 끝없는 스크롤 갈래?</item>
+        <item>릴이 진짜 보고 싶은 거야, 아니면 그냥 습관이 당기는 거야?</item>
+        <item>오늘 끊을래, 어제처럼 또 갈래?</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>좋아, 이제 시작이야</item>
+        <item>아직 여유</item>
+        <item>아직 괜찮아</item>
+        <item>지금은 괜찮아</item>
+        <item>아직 괜찮아</item>
+        <item>낮게 유지 중</item>
+        <item>지금 딱 좋아요</item>
+        <item>너무 깊진 않게</item>
+        <item>지금까진 완벽</item>
+        <item>아직 초반</item>
+        <item>과몰입 금지</item>
+        <item>괜찮아</item>
+        <item>아직 안 터졌어</item>
+        <item>가볍게 스크롤</item>
+        <item>지금 쥐고 있어</item>
+        <item>아직 버틸만해</item>
+        <item>아직 안 터졌어</item>
+        <item>지금은 이 정도면 돼요</item>
+        <item>거의 안 망가졌어요</item>
+        <item>잘 컨트롤하고 있어</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>슬슬 지친다…</item>
+        <item>이건 좀 심한데</item>
+        <item>내 뇌가 타버리는 중</item>
+        <item>꽤 오래 달렸네</item>
+        <item>뇌가 썩어가고 있어</item>
+        <item>녹아내리는 게 느껴져</item>
+        <item>다시 생각해봐</item>
+        <item>이젠 장난 아니야</item>
+        <item>이제 완전 깊이 빠졌어</item>
+        <item>지금 뇌세포 타고 있음</item>
+        <item>진짜로 망가져요</item>
+        <item>와, 진짜 제대로 가네</item>
+        <item>잠깐 쉬고 싶어</item>
+        <item>이건 너무 심해</item>
+        <item>머리가 점점 멍해져</item>
+        <item>머리가 안 돌아가</item>
+        <item>안개가 몰려온다</item>
+        <item>지금 완전 폭주 중</item>
+        <item>진짜 너무 많다</item>
+        <item>제발 이제 그만해</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>이제 그만할까?</item>
+        <item>진짜 간신히 버티는 중</item>
+        <item>뇌 학대 중</item>
+        <item>지금 완전 선 넘었어</item>
+        <item>이제 더 못 버티겠어</item>
+        <item>뇌가 다 갈렸다</item>
+        <item>이미 뇌 썩었다</item>
+        <item>살려줘</item>
+        <item>완전 방전 직전이야</item>
+        <item>나 망가져가</item>
+        <item>이건 좀 위험해요</item>
+        <item>내 마지막 뇌세포 운다</item>
+        <item>나 누구였지</item>
+        <item>스크롤에 먹혀버렸어</item>
+        <item>이젠 돌아갈 수 없어</item>
+        <item>나 지금 꺼질게</item>
+        <item>지금 진짜 위기야</item>
+        <item>개입이 필요해</item>
+        <item>이젠 피해가 얼마나인지도 모르겠어</item>
+        <item>여긴 이제 텅 비었어</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>이젠 못 따라가겠어</item>
+        <item>나 이제 끝났어</item>
+        <item>뇌 상태: 완전 증발</item>
+        <item>오늘도 브레인rot 클리어</item>
+        <item>나 지금 그냥 물웅덩이야</item>
+        <item>이젠 돌아갈 수 없어</item>
+        <item>뇌 완전 폭발</item>
+        <item>업적 달성: 뇌 정지</item>
+        <item>난 이제 없어</item>
+        <item>브레인 완패</item>
+        <item>너 때문에 스크롤 지옥 갔다</item>
+        <item>난 답이 없다</item>
+        <item>여기가 끝이야</item>
+        <item>뇌세포 게임 오버</item>
+        <item>썩을 대로 썩었네</item>
+        <item>나 이제 스무디 됐어</item>
+        <item>생각 OFF, 릴스 ON</item>
+        <item>뇌가 채팅방 나감</item>
+        <item>축하해, 나 망가졌어</item>
+        <item>예전엔 뇌였지</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>조심해요, 계속 쌓이고 있어요</item>
+        <item>속도 붙었어</item>
+        <item>슬슬 쌓이고 있어</item>
+        <item>슬슬 위험해지고 있어</item>
+        <item>좀 천천히 가볼까</item>
+        <item>숫자가 치솟는 중</item>
+        <item>이젠 그냥 취미가 아니야</item>
+        <item>이거 습관 되겠다</item>
+        <item>슬슬 온다</item>
+        <item>그냥 그럭저럭</item>
+        <item>좀 과한데</item>
+        <item>그냥 훑어보는 수준이 아니야</item>
+        <item>스크롤 지독하다</item>
+        <item>이제 진짜 깊이 빠졌어</item>
+        <item>위험 구간 딱 절반</item>
+        <item>슬금슬금 늘어나는 중</item>
+        <item>나중에 후회할 수도 있어요</item>
+        <item>뇌가 눈치챘어요</item>
+        <item>이제 좀 심각해졌어</item>
+        <item>좀 천천히 할까?</item>
+    </string-array>
+</resources>

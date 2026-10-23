@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="block_reels_nfc_scroll_reel_descriptions">
+        <item>Fokus ke yang baik…</item>
+        <item>Pilih hal positif hari ini…</item>
+        <item>Cari tenang, bukan drama…</item>
+        <item>Pilih bahagia, bukan scroll…</item>
+        <item>Tenang sejenak…</item>
+        <item>Tetap hadir, tetap bahagia…</item>
+        <item>Tarik napas, nikmati hidup…</item>
+        <item>Nikmati momen ini…</item>
+        <item>Hidup di momen ini…</item>
+        <item>Fokus ke yang penting…</item>
+    </string-array>
+    <string-array name="block_reels_nfc_scroll_taunts">
+        <item>Yakin mau kejebak lagi?</item>
+        <item>Yakin nggak bakal jadi sejam?</item>
+        <item>Yakin masih mau nonton reels?</item>
+        <item>Worth capek nanti?</item>
+        <item>Kamu yang buka, atau kebiasaanmu?</item>
+        <item>Mau rehat bentar, atau lanjut spiral gelap lagi?</item>
+        <item>Yakin nggak bakal nyesel nanti?</item>
+        <item>Mau balik fokus, atau lanjut scroll?</item>
+        <item>Yakin mau ngasih sejam lagi buat ini?</item>
+        <item>Kamu milih ini, atau kepleset lagi?</item>
+        <item>Otak kamu capek, atau masih nagih junk lagi?</item>
+        <item>Mau santai beneran, atau malah makin hancur?</item>
+        <item>Lagi cari hiburan, atau cuma kejebak scroll terus?</item>
+        <item>Ini istirahat beneran atau jebakan lagi?</item>
+        <item>Mau lanjut scroll, atau ambil kendali lagi?</item>
+        <item>Mau berhenti sekarang, atau hilang fokus lagi?</item>
+        <item>Mau fokus balik, atau buang waktu lagi?</item>
+        <item>Ini pilihanmu, atau cuma bosan aja?</item>
+        <item>Mau hening bentar, atau nyemplung lagi ke spiral scroll?</item>
+        <item>Kamu kangen reelsnya, atau cuma nagih kebiasaannya?</item>
+        <item>Mau putus sekarang, atau ngulang kemarin lagi?</item>
+    </string-array>
+    <string-array name="brain_quotes_0_50">
+        <item>Oke, baru mulai nih</item>
+        <item>Masih ringan</item>
+        <item>Belum parah kok</item>
+        <item>Masih aman sejauh ini</item>
+        <item>Masih terkendali</item>
+        <item>Masih dikit</item>
+        <item>Masih batas wajar</item>
+        <item>Belum terlalu dalam</item>
+        <item>Sejauh ini aman</item>
+        <item>Masih awal-awal</item>
+        <item>Belum ada yang aneh</item>
+        <item>Ini masih oke</item>
+        <item>Belum lepas kendali</item>
+        <item>Scroll tipis-tipis</item>
+        <item>Masih bisa nahan</item>
+        <item>Masih bisa diatasi</item>
+        <item>Belum meledak kok</item>
+        <item>Kita masih aman</item>
+        <item>Kerusakan minimal</item>
+        <item>Masih terjaga dengan baik</item>
+    </string-array>
+    <string-array name="brain_quotes_100_150">
+        <item>Aku mulai lelah…</item>
+        <item>Ini udah kebanyakan</item>
+        <item>Neuronku mulai pudar</item>
+        <item>Kamu udah lama banget nih</item>
+        <item>Otaknya mulai membusuk</item>
+        <item>Berasa meleleh nih</item>
+        <item>Coba pikir-pikir lagi deh</item>
+        <item>Ini udah bukan santai lagi</item>
+        <item>Kita udah tenggelam dalam banget</item>
+        <item>Aku kehilangan banyak sel otak di sini</item>
+        <item>Kerusakannya nyata banget</item>
+        <item>Niat banget ya scroll-nya</item>
+        <item>Aku butuh istirahat</item>
+        <item>Ini udah berlebihan</item>
+        <item>Pikiranku mulai kabur</item>
+        <item>Udah nggak bisa mikir jernih</item>
+        <item>Kabut otak mulai datang</item>
+        <item>Kamu lagi ngamuk ya</item>
+        <item>Ini terlalu banyak</item>
+        <item>Aku mohon berhenti dulu</item>
+    </string-array>
+    <string-array name="brain_quotes_150_200">
+        <item>Bisa berhenti sekarang?</item>
+        <item>Aku hampir nggak kuat lagi</item>
+        <item>Ini penyiksaan otak</item>
+        <item>Kamu udah kelewatan banget</item>
+        <item>Udah nggak bisa mikir lagi</item>
+        <item>Semuanya jadi bubur</item>
+        <item>Pembusukannya udah parah</item>
+        <item>Tolong kasihani aku</item>
+        <item>Tenagaku udah habis bis</item>
+        <item>Kamu menghancurkan aku</item>
+        <item>Ini udah nggak sehat</item>
+        <item>Sel otak terakhirku menangis</item>
+        <item>Aku lupa aku ini siapa</item>
+        <item>Kamu udah dimakan sama scroll</item>
+        <item>Kita udah kelewat batas</item>
+        <item>Aku mulai mati total</item>
+        <item>Ini situasi darurat</item>
+        <item>Kamu butuh diselamatkan</item>
+        <item>Udah nggak terhitung kerusakannya</item>
+        <item>Udah nggak ada yang tersisa di sini</item>
+    </string-array>
+    <string-array name="brain_quotes_200_plus">
+        <item>Udah nggak bisa ngikutin lagi</item>
+        <item>Semuanya berakhir bagiku</item>
+        <item>Status otak: mencair</item>
+        <item>Pembusukan otak selesai</item>
+        <item>Sekarang aku cuma genangan air</item>
+        <item>Nggak ada jalan kembali</item>
+        <item>Pelelehan otak total</item>
+        <item>Pencapaian baru: otak mati</item>
+        <item>Aku udah nggak eksis lagi</item>
+        <item>Pembusukannya yang menang</item>
+        <item>Kamu membawa aku ke alam baka</item>
+        <item>Udah nggak bisa diselamatkan</item>
+        <item>Inilah akhirnya</item>
+        <item>Permainan berakhir untuk sel otak</item>
+        <item>Kamu udah mencapai puncak pembusukan</item>
+        <item>Sekarang aku jadi smoothie</item>
+        <item>Tanpa pikiran, cuma reels</item>
+        <item>Otak telah meninggalkan obrolan</item>
+        <item>Selamat, kamu bikin aku rusak</item>
+        <item>Dulu aku adalah otak</item>
+    </string-array>
+    <string-array name="brain_quotes_50_100">
+        <item>Hati-hati. Mulai numpuk nih</item>
+        <item>Makin cepat aja nih</item>
+        <item>Mulai menumpuk nih</item>
+        <item>Mulai masuk zona bahaya</item>
+        <item>Mungkin perlu pelan-pelan</item>
+        <item>Angkanya makin naik</item>
+        <item>Ini sih udah kelewatan</item>
+        <item>Mulai jadi kebiasaan nih</item>
+        <item>Mulai kerasa efeknya</item>
+        <item>Nggak bagus, tapi belum terlalu parah</item>
+        <item>Kamu mulai berlebihan</item>
+        <item>Ini sih bukan cuma ngintip sekilas</item>
+        <item>Kecanduan scroll-nya nyata</item>
+        <item>Udah tenggelam nih</item>
+        <item>Setengah jalan menuju zona bahaya</item>
+        <item>Perlahan-lahan merayap naik</item>
+        <item>Nanti bisa nyesel lho</item>
+        <item>Otakmu mulai teriak nih</item>
+        <item>Ini mulai serius</item>
+        <item>Pelan-pelan dulu kali?</item>
+    </string-array>
+</resources>

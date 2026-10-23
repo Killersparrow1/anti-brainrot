@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="anti_cancel_reminder_recap_blocked">
+        <item quantity="other">%1$d reels bloqueados hasta ahora.</item>
+        <item quantity="one">%1$d reel bloqueado hasta ahora.</item>
+    </plurals>
+    <plurals name="anti_cancel_reminder_recap_counted">
+        <item quantity="other">%1$d reels contados hasta ahora.</item>
+        <item quantity="one">%1$d reel contado hasta ahora.</item>
+    </plurals>
+    <plurals name="battle_stats_wins">
+        <item quantity="other">%1$d victorias</item>
+        <item quantity="one">%1$d victoria</item>
+    </plurals>
+    <plurals name="block_reels_hours">
+        <item quantity="other">%1$d h</item>
+        <item quantity="one">%1$d h</item>
+    </plurals>
+    <plurals name="buddy_scene_ring_unit">
+        <item quantity="other">reels hoy</item>
+        <item quantity="one">reel hoy</item>
+    </plurals>
+    <plurals name="buddy_widget_label_days_away">
+        <item quantity="other">días sin entrar</item>
+        <item quantity="one">día sin entrar</item>
+    </plurals>
+    <plurals name="home_comeback_reels_count">
+        <item quantity="other">%1$d reels</item>
+        <item quantity="one">%1$d reel</item>
+    </plurals>
+    <plurals name="home_delta_fewer_than_yesterday">
+        <item quantity="other">%1$d menos que ayer a esta hora</item>
+        <item quantity="one">%1$d menos que ayer a esta hora</item>
+    </plurals>
+    <plurals name="home_delta_more_than_yesterday">
+        <item quantity="other">%1$d más que ayer a esta hora</item>
+        <item quantity="one">%1$d más que ayer a esta hora</item>
+    </plurals>
+    <plurals name="home_delta_share_message">
+        <item quantity="other">"Llevo %1$d reels menos que ayer a esta hora. ¿Me ganas?
+%2$s"</item>
+        <item quantity="one">"Llevo %1$d reel menos que ayer a esta hora. ¿Me ganas?
+%2$s"</item>
+    </plurals>
+    <plurals name="logout_guard_title_count">
+        <item quantity="other">%1$d reels sin guardar</item>
+        <item quantity="one">%1$d reel sin guardar</item>
+        <item quantity="many">%1$d reels sin guardar</item>
+    </plurals>
+    <plurals name="ob_story_long_days_headline">
+        <item quantity="other">"**%1$d días** al año
+en reels"</item>
+        <item quantity="one">"**%1$d día** al año
+en reels"</item>
+    </plurals>
+    <plurals name="ob_story_long_days_line">
+        <item quantity="other">Según tu respuesta: %1$d horas al día, cada día.</item>
+        <item quantity="one">Según tu respuesta: %1$d hora al día, cada día.</item>
+    </plurals>
+    <plurals name="ob_story_long_goal_headline">
+        <item quantity="other">"**%1$d horas** a la semana
+para %2$s"</item>
+        <item quantity="one">"**%1$d hora** a la semana
+para %2$s"</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_break">
+        <item quantity="other">%1$d más que ayer a esta hora. ¿Te tomas un descanso?</item>
+        <item quantity="one">%1$d más que ayer a esta hora. ¿Te tomas un descanso?</item>
+    </plurals>
+    <plurals name="pace_nudge_body_pace_night">
+        <item quantity="other">%1$d más que ayer a esta hora. ¿Lo dejas por hoy?</item>
+        <item quantity="one">%1$d más que ayer a esta hora. ¿Lo dejas por hoy?</item>
+    </plurals>
+    <plurals name="pace_nudge_title">
+        <item quantity="other">Hoy llevas %1$d reels</item>
+        <item quantity="one">Hoy llevas %1$d reel</item>
+    </plurals>
+    <plurals name="stats_bar_reels">
+        <item quantity="other">%d reels</item>
+        <item quantity="one">%d reel</item>
+    </plurals>
+    <plurals name="trial_ending_blocks_title">
+        <item quantity="other">%1$d reels bloqueados</item>
+        <item quantity="one">%1$d reel bloqueado</item>
+    </plurals>
+    <plurals name="trial_ending_reels_title">
+        <item quantity="other">%1$d reels en esta prueba</item>
+        <item quantity="one">%1$d reel en esta prueba</item>
+    </plurals>
+    <plurals name="weekly_story_label_hours">
+        <item quantity="other">reels (%1$d horas)</item>
+        <item quantity="one">reels (%1$d hora)</item>
+    </plurals>
+    <plurals name="weekly_story_share_text">
+        <item quantity="other">Esta semana vi %1$d reels. ¿Superas mi semana? %2$s</item>
+        <item quantity="one">Esta semana vi %1$d reel. ¿Superas mi semana? %2$s</item>
+    </plurals>
+    <plurals name="widget_second_ask_body">
+        <item quantity="other">Tus %1$d reels de hoy, sin abrir la app.</item>
+        <item quantity="one">Tu %1$d reel de hoy, sin abrir la app.</item>
+        <item quantity="many">Tus %1$d reels de hoy, sin abrir la app.</item>
+    </plurals>
+    <plurals name="wrap_friends_lighter">
+        <item quantity="other">Menos scroll que tú: %1$d de tus %2$d amigos.</item>
+        <item quantity="one">Menos scroll que tú: %1$d de %2$d amigo.</item>
+    </plurals>
+    <plurals name="wrap_home_card_subtitle">
+        <item quantity="other">%1$d reels. Mira cómo fue tu día.</item>
+        <item quantity="one">%1$d reel. Mira cómo fue tu día.</item>
+    </plurals>
+    <plurals name="wrap_longest_line">
+        <item quantity="other">%1$d reels sin levantar la vista, de %2$s a %3$s.</item>
+        <item quantity="one">%1$d reel sin levantar la vista, de %2$s a %3$s.</item>
+    </plurals>
+    <plurals name="wrap_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="wrap_notification_body">
+        <item quantity="other">%1$d reels. Mira cómo fue tu día.</item>
+        <item quantity="one">%1$d reel. Mira cómo fue tu día.</item>
+    </plurals>
+    <plurals name="wrap_pattern_opens">
+        <item quantity="other">veces abriendo reels</item>
+        <item quantity="one">vez abriendo reels</item>
+    </plurals>
+    <plurals name="wrap_personality_boomerang_badge">
+        <item quantity="other">Volviste en 5 min · %1$d veces</item>
+        <item quantity="one">Volviste en 5 min · %1$d vez</item>
+    </plurals>
+    <plurals name="wrap_personality_deep_diver_badge">
+        <item quantity="other">%1$d reels de una sentada</item>
+        <item quantity="one">%1$d reel de una sentada</item>
+    </plurals>
+    <plurals name="wrap_personality_early_bird_badge">
+        <item quantity="other">%1$d%% antes de las 10</item>
+        <item quantity="one">%1$d%% antes de las 10</item>
+    </plurals>
+    <plurals name="wrap_personality_feed_hopper_badge">
+        <item quantity="other">%1$d saltos entre apps</item>
+        <item quantity="one">%1$d salto entre apps</item>
+    </plurals>
+    <plurals name="wrap_personality_light_touch_badge">
+        <item quantity="other">Solo %1$d reels</item>
+        <item quantity="one">Solo %1$d reel</item>
+    </plurals>
+    <plurals name="wrap_personality_night_owl_badge">
+        <item quantity="other">%1$d%% de madrugada</item>
+        <item quantity="one">%1$d%% de madrugada</item>
+    </plurals>
+    <plurals name="wrap_personality_snacker_badge">
+        <item quantity="other">%1$d visitas rápidas</item>
+        <item quantity="one">%1$d visita rápida</item>
+    </plurals>
+    <plurals name="wrap_personality_steady_badge">
+        <item quantity="other">%1$d reels, repartidos</item>
+        <item quantity="one">%1$d reel, repartido</item>
+    </plurals>
+    <plurals name="wrap_reels">
+        <item quantity="other">reels</item>
+        <item quantity="one">reel</item>
+    </plurals>
+    <plurals name="wrap_reels_in_time">
+        <item quantity="other">reels en %1$s</item>
+        <item quantity="one">reel en %1$s</item>
+    </plurals>
+</resources>

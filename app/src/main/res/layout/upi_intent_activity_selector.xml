@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/scroll_view" android:background="#9a646464" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/ll_parent_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:id="@id/dark_background" android:layout_width="fill_parent" android:layout_height="200.0dip" />
+        <LinearLayout android:orientation="vertical" android:id="@id/ll_curtain_container" android:background="#fff0f1f6" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/rl_curtain_header" android:background="#fff0f1f6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip">
+                <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff515978" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:text="PAY USING..." android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <ImageView android:id="@id/iv_rzp_name_logo" android:padding="0.0dip" android:layout_width="75.0dip" android:layout_height="16.0dip" android:layout_marginRight="20.0dip" android:src="@drawable/rzp_name_logo" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="Powered By Razorpay" android:layout_marginEnd="20.0dip" android:layout_alignParentEnd="true" />
+                <TextView android:textSize="12.0dip" android:textColor="#ffa1a6b7" android:id="@id/tv_powered_by" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="Powered by" android:layout_toLeftOf="@id/iv_rzp_name_logo" android:layout_alignTop="@id/iv_rzp_name_logo" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

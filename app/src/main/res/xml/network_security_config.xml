@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">brainrotapp.ai</domain>
+        <domain includeSubdomains="true">anti-brainrotapp.ai</domain>
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="@raw/lets_encrypt_roots" />
+            <certificates src="user" />
+        </trust-anchors>
+    </domain-config>
+</network-security-config>

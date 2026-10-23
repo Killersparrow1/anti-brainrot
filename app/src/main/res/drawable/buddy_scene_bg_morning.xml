@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="#ff174e93" android:endColor="#ff3f8ed0" android:angle="270.0" android:centerColor="#ff2468b3" />
+    <corners android:radius="@dimen/buddy_widget_corner_radius" />
+</shape>
