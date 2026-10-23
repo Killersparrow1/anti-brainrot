@@ -2314,8 +2314,8 @@
     <public type="string" name="account_language_settings_title" id="0x7f110038" />
     <public type="string" name="account_settings_ask_friends" id="0x7f11003a" />
     <public type="string" name="account_settings_back_press_offer_reset_done" id="0x7f11003b" />
-    <public type="string" name="account_settings_anti-brainrot_blocking_paused_off" id="0x7f11003c" />
-    <public type="string" name="account_settings_anti-brainrot_blocking_paused_on" id="0x7f11003d" />
+    <public type="string" name="account_settings_anti_brainrot_blocking_paused_off" id="0x7f11003c" />
+    <public type="string" name="account_settings_anti_brainrot_blocking_paused_on" id="0x7f11003d" />
     <public type="string" name="account_settings_claim_discount" id="0x7f11003e" />
     <public type="string" name="account_settings_counter_size" id="0x7f110040" />
     <public type="string" name="account_settings_delete_data_confirm_message" id="0x7f110042" />
@@ -3132,7 +3132,7 @@
     <public type="string" name="paywall_guilt_yes_i_do" id="0x7f1104b3" />
     <public type="string" name="paywall_hero_claim_offer" id="0x7f1104b4" />
     <public type="string" name="paywall_ladder_a_year" id="0x7f1104b5" />
-    <public type="string" name="paywall_ladder_anti-brainrot_costs" id="0x7f1104b6" />
+    <public type="string" name="paywall_ladder_anti_brainrot_costs" id="0x7f1104b6" />
     <public type="string" name="paywall_ladder_claim" id="0x7f1104b7" />
     <public type="string" name="paywall_ladder_ends_in" id="0x7f1104b8" />
     <public type="string" name="paywall_ladder_keep_gift" id="0x7f1104b9" />
@@ -3262,7 +3262,7 @@
     <public type="string" name="permission_steps_usage_access_enable" id="0x7f11056b" />
     <public type="string" name="permission_steps_usage_access_return" id="0x7f11056c" />
     <public type="string" name="permission_steps_usage_access_samsung_enable" id="0x7f11056d" />
-    <public type="string" name="permission_steps_usage_access_select_anti-brainrot" id="0x7f11056e" />
+    <public type="string" name="permission_steps_usage_access_select_anti_brainrot" id="0x7f11056e" />
     <public type="string" name="permission_steps_usage_access_xiaomi_confirm" id="0x7f11056f" />
     <public type="string" name="permission_usage_access_desc" id="0x7f110570" />
     <public type="string" name="permission_usage_access_title" id="0x7f110571" />
@@ -3430,7 +3430,7 @@
     <public type="string" name="trial_started_title" id="0x7f11063b" />
     <public type="string" name="try_br_app_open_button" id="0x7f11063d" />
     <public type="string" name="try_br_app_roast_title" id="0x7f11063e" />
-    <public type="string" name="try_br_roast_back_to_anti-brainrot" id="0x7f11063f" />
+    <public type="string" name="try_br_roast_back_to_anti_brainrot" id="0x7f11063f" />
     <public type="string" name="try_br_welcome_message" id="0x7f110640" />
     <public type="string" name="uninstall_feedback_cta_submit_and_uninstall" id="0x7f110641" />
     <public type="string" name="uninstall_feedback_cta_uninstall" id="0x7f110642" />
