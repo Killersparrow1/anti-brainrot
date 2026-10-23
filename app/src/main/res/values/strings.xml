@@ -55,8 +55,8 @@ Anti-BrainRot uses this only to notice when you swipe to the next reel on Instag
     <string name="account_language_settings_title">Language</string>
     <string name="account_settings_ask_friends">Ask friends which app I scroll</string>
     <string name="account_settings_back_press_offer_reset_done">Back offer reset</string>
-    <string name="account_settings_anti-brainrot_blocking_paused_off">Pause Brainpal blocking: Off</string>
-    <string name="account_settings_anti-brainrot_blocking_paused_on">Pause Brainpal blocking: On</string>
+    <string name="account_settings_anti_brainrot_blocking_paused_off">Pause Brainpal blocking: Off</string>
+    <string name="account_settings_anti_brainrot_blocking_paused_on">Pause Brainpal blocking: On</string>
     <string name="account_settings_claim_discount">Claim %1$d%% Off</string>
     <string name="account_settings_counter_size">Counter size</string>
     <string name="account_settings_delete_data_confirm_message">This will permanently delete all your data from the server and clear the app. This action cannot be undone.</string>
@@ -923,7 +923,7 @@ Not one stayed."</string>
     <string name="paywall_guilt_yes_i_do">Yes, I do</string>
     <string name="paywall_hero_claim_offer">Claim %1$d%% off</string>
     <string name="paywall_ladder_a_year">a year</string>
-    <string name="paywall_ladder_anti-brainrot_costs">Anti-BrainRot costs</string>
+    <string name="paywall_ladder_anti_brainrot_costs">Anti-BrainRot costs</string>
     <string name="paywall_ladder_claim">Claim %1$d%% off</string>
     <string name="paywall_ladder_ends_in">Ends in %1$s</string>
     <string name="paywall_ladder_keep_gift">Keep my %1$d%% gift</string>
@@ -1063,7 +1063,7 @@ by %2$s"</string>
     <string name="permission_steps_usage_access_enable">Turn on Permit usage access (or Allow usage tracking).</string>
     <string name="permission_steps_usage_access_return">Go back to Anti-BrainRot to finish setup.</string>
     <string name="permission_steps_usage_access_samsung_enable">Turn on Allow usage tracking.</string>
-    <string name="permission_steps_usage_access_select_anti-brainrot">Select Anti-BrainRot in the Usage access app list.</string>
+    <string name="permission_steps_usage_access_select_anti_brainrot">Select Anti-BrainRot in the Usage access app list.</string>
     <string name="permission_steps_usage_access_xiaomi_confirm">Read the confirmation. If you agree, tick the checkbox, wait for the countdown, then tap OK.</string>
     <string name="permission_usage_access_desc">To count reels</string>
     <string name="permission_usage_access_title">Usage access</string>
@@ -1235,7 +1235,7 @@ do a physical challenge"</string>
     <string name="try_br_app_open_button">Open %1$s</string>
     <string name="try_br_app_roast_title">"Open %1$s.
 Get roasted."</string>
-    <string name="try_br_roast_back_to_anti-brainrot">Back to Anti-BrainRot</string>
+    <string name="try_br_roast_back_to_anti_brainrot">Back to Anti-BrainRot</string>
     <string name="try_br_welcome_message">Welcome to Anti-BrainRot!</string>
     <string name="uninstall_feedback_cta_submit_and_uninstall">Submit &amp; Uninstall</string>
     <string name="uninstall_feedback_cta_uninstall">Uninstall</string>
