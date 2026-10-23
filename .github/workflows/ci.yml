@@ -24,6 +24,14 @@ jobs:
           java-version: '17'
           cache: 'gradle'
 
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v2
+        with:
+          api-level: 34
+          build-tools-version: 34.0.0
+          emulator: false
+          cache: true
+
       - name: Grant execute permission
         run: chmod +x gradlew
 
