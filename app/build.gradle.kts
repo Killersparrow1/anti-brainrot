@@ -141,7 +141,6 @@ dependencies {
     // Glance (Widgets)
     implementation("androidx.glance:glance:1.0.0")
     implementation("androidx.glance:glance-appwidget:1.0.0")
-    implementation("androidx.glance:glance-wear-tiles:1.0.0")
 
     // Hilt
     implementation("com.google.dagger:hilt-android:2.50")
